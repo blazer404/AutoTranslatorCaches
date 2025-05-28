@@ -99,12 +99,15 @@
 1 sec.=1 сек.
 1,00 Billion=1,00 млрд
 1,01 Million=1,01 миллион
+1,02 Billion=1,02 млрд
 1,02 Million=1,02 миллиона
 1,03 Million=1,03 миллиона
+1,04 Million=1,04 миллиона
 1,06 Million=106 миллионов
 1,07 Million=1 07 миллионов
 1,08 Million=108 миллионов
 1,09 Million=1,09 млн
+1,10 Million=1,10 миллиона
 1,12 Million=1,12 млн
 1,13 Billion=1,13 миллиарда
 1,15 Million=115 миллионов
@@ -117,16 +120,29 @@
 1,36 Million=1,36 миллиона
 1,41 Million=1,41 млн
 1,43 Million=1,43 млн
+1,45 Million=1,45 миллионов
 1,46 Million=1,46 миллионов
+1,53 Million/sec=1,53 миллиона/сек
 1,54 Million=1,54 миллиона
+1,56 Million=1,56 миллионов
+1,59 Million=1,59 миллионов
+1,65 Million=1,65 миллионов
 1,68 Million=1,68 млн
+1,69 Million=1,69 миллионов
 1,71 Million=1,71 миллион
+1,73 Million/sec=1,73 миллиона/сек
+1,75 Million=1,75 миллионов
+1,80 Million=1,80 миллионов
 1,81 Million=1,81 млн
 1,83 Million=1,83 миллиона
+1,86 Million=1,86 миллионов
 1,89 Million=1,89 миллионов
+1,98 Million=1,98 миллионов
 10 sec.=10 сек.
 10,14 /sec=10,14/с
 10,51 /sec=10,51/с
+10,51 Million/sec=10,51 миллион/с
+10,76 Million/sec=10,76 миллионов/с
 100 sec.=100 сек.
 100,00 Million=100,00 млн
 101 sec.=101 сек.
@@ -144,12 +160,21 @@
 109 sec.=109 сек.
 109,87 Million=109,87 миллионов
 10h 00m 00s=10h 00m 00s
+10h 00m 11s=10H 00м 11 с
+10h 00m 12s=10H 00м 12 с
+10h 00m 45s=10h 00m 45 с
+10h 00m 48s=10h 00m 48 с
+10h 01m 01s=10H 01M 01S
+10h 01m 04s=10H 01M 04S
+10h 01m 05s=10H 01M 05S
 10h 35m 14s=10ч 35мин 14сек
 11 sec.=11 сек.
 11,63 Million=11,63 миллиона
 11,92 Million=11,92 миллиона
 110 /sec=110/с
 110 sec.=110 сек.
+110,29 Million/sec=110,29 миллионов/с
+110 371 /sec=110 371 /с
 111 /sec=111/с
 111 sec.=111 сек.
 112 /sec=112/с
@@ -177,10 +202,15 @@
 11h 59m 27s=11ч 59мин 27сек
 11h 59m 28s=11ч 59мин 28сек
 11h 59m 54s=11ч 59мин 54сек
+11 812 /sec=11 812 /с
 12 sec.=12 сек.
+12,06 Million=12,06 миллионов
+12,21 Million/sec=12,21 миллион/с
 12,23 Million=12,23 миллиона
 12,57 Million=12,57 млн
 12,75 /sec=12,75/с
+12,82 Million=12,82 миллиона
+12,86 Million=12,86 миллионов
 12,90 Million=12,90 миллионов
 12,95 Million=12,95 млн
 120 sec.=120 сек.
@@ -193,13 +223,20 @@
 125 sec.=125 сек.
 126 sec.=126 сек.
 127 sec.=127 сек.
+127,26 Million=127,26 миллиона
+128 /sec=128 /с
 128 sec.=128 сек.
 128,06 Million=128,06 миллионов
 129 sec.=129 сек.
+129 122 /sec=129 122 /с
 12h 00m 00s=12ч 00мин 00сек
+12 153 /sec=12 153 /с
+12 557 /sec=12 557 /с
+12 917 /sec=12 917 /с
 13 sec.=13 сек.
 13,00 /sec=13,00/с
 13,13 /sec=13,13/с
+13,33 Million=13,33 миллиона
 13,94 Million=13,94 миллиона
 130 sec.=130 сек.
 131 /sec=131/с
@@ -209,13 +246,18 @@
 133 sec.=133 сек.
 134 sec.=134 сек.
 135 sec.=135 сек.
+135,29 Million=135,29 миллиона
 136 sec.=136 сек.
 137 sec.=137 сек.
 138 sec.=138 сек.
 139 sec.=139 сек.
+13 732 /sec=13 732 /с
+13 781 /sec=13 781 /с
 14 sec.=14 сек.
+14,18 Million=14,18 миллионов
 14,66 Million=14 66 миллионов
 14,74 /sec=14,74/с
+14,83 Million=14,83 миллиона
 140 /sec=140/с
 140 sec.=140 сек.
 141 sec.=141 сек.
@@ -223,6 +265,7 @@
 143 sec.=143 сек.
 144 sec.=144 сек.
 144,70 Million=144,70 миллионов
+144,93 Million=144,93 миллиона
 145 sec.=145 сек.
 145,74 Million=145,74 миллиона
 146 sec.=146 сек.
@@ -231,14 +274,18 @@
 149 sec.=149 сек.
 15 sec.=15 сек.
 15,00 Billion=15,00 млрд
+15,77 Million/sec=15 77 миллионов/с
+15,77 Million=15 77 миллионов
 150 sec.=150 сек.
 151 sec.=151 сек.
+151,19 Million=151,19 миллиона
 151,75 Million=151,75 миллиона
 152 sec.=152 сек.
 152,23 Million=152,23 миллиона
 152,64 Million=152,64 млн
 153 sec.=153 сек.
 154 sec.=154 сек.
+154,08 Million=154,08 миллиона
 155 sec.=155 сек.
 155,75 Million=155,75 миллиона
 156 sec.=156 сек.
@@ -248,13 +295,18 @@
 16 sec.=16 сек.
 16,27 Million=16,27 миллиона
 160 sec.=160 сек.
+160,73 Million=160,73 миллиона
+160 866 /sec=160 866 /с
+161 /sec=161 /с
 161 sec.=161 сек.
+161,27 Million=161,27 миллиона
 162 sec.=162 сек.
 163 sec.=163 сек.
 164 /sec=164/с
 164 sec.=164 сек.
 164,80 Million=164,80 миллионов
 165 sec.=165 сек.
+165,43 Million/sec=165,43 миллиона/сек
 166 /sec=166/с
 166 sec.=166 сек.
 167 sec.=167 сек.
@@ -264,6 +316,7 @@
 17,44 Million=17,44 миллиона
 17,69 /sec=17,69/с
 170 sec.=170 сек.
+171 /sec=171 /с
 171 sec.=171 сек.
 171,59 Million=171,59 миллиона
 172 sec.=172 сек.
@@ -276,14 +329,20 @@
 178 /sec=178/с
 178 sec.=178 сек.
 179 sec.=179 сек.
+17 718 /sec=17 718 /с
 18 sec.=18 сек.
+18,09 Million=18,09 миллионов
+18,31 Million/sec=18,31 миллион/сек
 18,35 Million=18 35 миллионов
 180 sec.=180 сек.
 182,59 Million=182,59 миллионов
+18 230 /sec=18 230 /с
+18 836 /sec=18 836 /с
 19 sec.=19 сек.
 19,43 Million=19,43 млн
 19,50 /sec=19,50/с
 19,70 /sec=19,70/с
+190,89 Million=190,89 миллионов
 192,09 Million=192,09 миллионов
 196 /sec=196/с
 1d 00h 00m=1д 00ч 00мин
@@ -302,7 +361,24 @@
 1d 09h 43m=1d 09H 43M
 1d 09h 59m=1d 09h 59m
 1d 10h 00m=1d 10h 00M
+1d 10h 10m=1d 10h 10m
+1d 10h 14m=1d 10h 14m
+1d 11h 05m=1d 11h 05m
+1d 11h 06m=1d 11h 06m
+1d 11h 07m=1d 11h 07m
 1d 13h 07m=1d 13h 07m
+1d 14h 07m=1d 14h 07m
+1d 14h 10m=1d 14h 10m
+1d 14h 11m=1d 14h 11m
+1d 14h 28m=1d 14h 28m
+1d 14h 29m=1d 14h 29m
+1d 15h 20m=1d 15h 20m
+1d 15h 21m=1d 15h 21m
+1d 15h 22m=1d 15h 22m
+1d 15h 24m=1d 15h 24m
+1d 15h 25m=1d 15h 25m
+1d 16h 21m=1d 16h 21m
+1d 16h 23m=1d 16h 23m
 1d 17h 57m=1d 17h 57m
 1d 17h 58m=1d 17h 58m
 1d 18h 21m=1d 18h ​​21m
@@ -311,10 +387,13 @@
 1d 18h 44m=1d 18h ​​44M
 1d 19h 01m=1d 19h 01m
 1d 19h 07m=1d 19h 07m
+1d 19h 09m=1d 19h 09m
+1d 19h 10m=1d 19h 10m
 1d 20h 24m=1d 20h 24m
 1d 20h 50m=1d 20h 50m
 1d 20h 52m=1d 20h 52m
 1d 21h 52m=1d 21h 52m
+1d 22h 07m=1d 22H 07M
 1d 22h 17m=1d 22h 17m
 1d 22h 28m=1d 22H 28м
 1d 23h 25m=1d 23h 25m
@@ -345,7 +424,9 @@
 1 184 /sec=1 184/с
 1 405 /sec=1 405/с
 1 434 /sec=1 434/с
+1 438 /sec=1 438 /с
 1 776 /sec=1 776/с
+1 797 /sec=1 797 /с
 2 sec.=2 сек.
 2,03 Million=2,03 млн
 2,08 Billion=2 08 млрд
@@ -354,12 +435,21 @@
 2,19 /sec=2,19/с
 2,23 Million=2,23 млн
 2,27 Billion=2,27 млрд
+2,29 Million/sec=2,29 миллионов/с
+2,31 Million=2,31 миллион
 2,35 Million=2,35 млн
 2,36 /sec=2,36/с
+2,39 Million=2,39 миллиона
+2,54 Million=2,54 миллиона
+2,60 Million/sec=2,60 миллионов/с
 2,72 /sec=2,72/с
 2,76 Million=276 млн
+2,79 Million=279 миллионов
 2,87 Million=2,87 млн
+2,97 Million=2,97 миллионов
 20 sec.=20 сек.
+20,00 Million=20,00 миллионов
+202,93 Million=202,93 миллиона
 206 /sec=206/с
 20h 29m 44s=20h 29m 44s
 20h 31m 44s=20h 31m 44s
@@ -370,12 +460,16 @@
 20h 50m 25s=20h 50m 25s
 20h 55m 05s=20h 55m 05s
 20h 55m 08s=20h 55m 08s
+20 598 /sec=20 598 /с
+20 672 /sec=20 672 /с
 21 sec.=21 сек.
 21,01 Million=21,01 млн
+21,26 Million=21,26 миллиона
 21,63 /sec=21,63/с
 21,81 /sec=21,81/с
 21,87 Million=21,87 млн
 214,54 Million=214,54 млн
+216 725 /sec=216 725 /с
 21h 09m 44s=21h 09m 44s
 21h 10m 34s=21h 10m 34s
 21h 58m 22s=21h 58m 22s
@@ -383,16 +477,21 @@
 21h 59m 17s=21h 59m 17s
 22 sec.=22 сек.
 22,11 /sec=22,11/с
+22,25 Million=22,25 миллиона
 22,41 /sec=22,41/с
 22,95 /sec=22,95/с
 223,39 Million=223,39 млн
+226,79 Million=226,79 млн
 227,62 Million=227,62 млн
 22h 31m 35s=22h 31m 35s
 22h 42m 21s=22h 42m 21s
 22h 44m 57s=22h 44m 57s
 22 059 /sec=22 059/с
+22 781 /sec=22 781 /с
 23 sec.=23 сек.
 23,62 Million=23,62 млн
+23,65 Million/sec=23,65 миллионов/сек
+231,11 Million=231,11 миллиона
 232 /sec=232/с
 23h 59m 07s=23ч 59мин 07сек
 23h 59m 43s=23ч 59мин 43сек
@@ -401,12 +500,18 @@
 23h 59m 59s=23ч 59мин 59сек
 24 sec.=24 сек.
 24,59 Million=24 59 млн
+241 /sec=241 /с
+241,91 Million=241,91 миллион
+241 299 /sec=241 299 /с
 245 /sec=245/с
 246 /sec=246/с
 249 /sec=249/с
 25 sec.=25 сек.
 25,43 Million=25,43 млн
 256 /sec=256/с
+257 /sec=257 /с
+259,67 Million=259,67 миллионов
+25 313 /sec=25 313 ​​/с
 26 sec.=26 сек.
 26,27 /sec=26,27/с
 26,48 Million=26,48 млн
@@ -417,13 +522,29 @@
 27 sec.=27 сек.
 27,54 /sec=27,54/с
 27,66 /sec=27,66/с
+276,05 Million=276,05 миллионов
 28 sec.=28 сек.
+28,12 /sec=28,12 /с
 28,43 Million=28,43 млн
 287 /sec=287/с
+28 254 /sec=28 254 /с
 29 sec.=29 сек.
 29,24 Million=29,24 млн
 296,09 Million=296,09 млн
 2d 00h 00m=2d 00h 00m
+2d 00h 25m=2d 00h 25m
+2d 00h 26m=2d 00h 26м
+2d 00h 28m=2d 00h 28м
+2d 00h 29m=2d 00h 29m
+2d 00h 30m=2d 00h 30m
+2d 00h 31m=2d 00h 31m
+2d 00h 54m=2d 00h 54m
+2d 06h 08m=2d 06h 08m
+2d 17h 28m=2d 17H 28м
+2d 20h 44m=2d 20h 44M
+2d 20h 45m=2d 20h 45m
+2d 22h 18m=2d 22h 18m
+2d 23h 59m=2d 23h 59m
 2h 20m 00s=2H 20м 00S
 2h 33m 44s=2H 33M 44S
 2h 33m 47s=2H 33M 47S
@@ -433,7 +554,9 @@
 2h 59m 59s=2H 59M 59S
 2 118 /sec=2 118/с
 2 169 /sec=2 169/с
+2 534 /sec=2 534 /с
 2 665 /sec=2 665/с
+2 696 /sec=2 696 /с
 3 sec.=3 сек.
 3,03 /sec=3,03/с
 3,21 Million=3,21 млн
@@ -446,6 +569,7 @@
 3,55 Billion=3,55 млрд
 3,62 Million=3,62 млн
 3,66 Million=366 млн
+3,89 Million/sec=3,89 миллионов/с
 3,96 Billion=3,96 млрд
 30 sec.=30 сек.
 30,45 Million=30,45 млн
@@ -454,11 +578,13 @@
 31 sec.=31 сек.
 31,25 Million=31,25 млн
 311,50 Million=311,50 млн
+31 008 /sec=31 008 /с
 32 sec.=32 сек.
 32,45 /sec=32,45/с
 32,54 Million=32,54 миллиона
 320 /sec=320/с
 321,81 Million=321,81 млн
+325 087 /sec=325 087 /с
 33 sec.=33 сек.
 33,16 /sec=33,16/с
 33,32 Million=33,32 млн
@@ -470,22 +596,30 @@
 34,43 /sec=34,43/с
 34,70 Million=34,70 млн
 348 /sec=348/с
+34 172 /sec=34 172 /с
 35 sec.=35 сек.
 351,92 Million=351,92 млн
+35 235 /sec=35 235 /с
 36 sec.=36 сек.
+361 949 /sec=361 949 /с
 362 /sec=362/с
 368 /sec=368/с
 37 sec.=37 сек.
 37,08 /sec=37,08/с
 370,23 Million=370,23 млн
+37 969 /sec=37 969 /с
 38 sec.=38 сек.
 38,15 Million=38,15 млн
 384 /sec=384/с
+385 /sec=385 /с
+389,50 Million=389,50 миллионов
 39 sec.=39 сек.
 39,24 Million=39,24 млн
 39,39 Million=39,39 млн
 39,98 Million=39,98 млн
 392,29 Million=392,29 млн
+3d 00h 00m=3d 00h 00m
+3d 00h 01m=3d 00h 01m
 3d 21h 18m=3d 21h 18m
 3d 21h 19m=3d 21h 19m
 3d 22h 08m=3d 22h 08m
@@ -518,6 +652,7 @@
 3h 58m 35s=3h 58m 35s
 3 177 /sec=3 177/с
 3 254 /sec=3 254/с
+3 801 /sec=3 801 /с
 4 sec.=4 сек.
 4,08 /sec=4,08/с
 4,17 Billion=4,17 млрд
@@ -529,8 +664,10 @@
 41 sec.=41 сек.
 41,62 Million=41,62 млн
 412,71 Million=412,71 млн
+413,47 Million=413,47 миллиона
 419 /sec=419/с
 42 sec.=42 сек.
+42,18 /sec=42,18 /с
 43 sec.=43 сек.
 43,87 Million=43,87 млн
 431 /sec=431/с
@@ -550,8 +687,10 @@
 48,69 /sec=48,69/с
 48,81 Million=48,81 млн
 481 /sec=481/с
+487 631 /sec=487 631 /с
 49 sec.=49 сек.
 49,93 /sec=49,93 /с
+49 054 /sec=49 054 /с
 49 633 /sec=49 633 /с
 4d 00h 00m=4d 00h 00m
 4h 02m 43s=4H 02M 43S
@@ -578,9 +717,11 @@
 50 sec.=50 сек.
 51 sec.=51 сек.
 51,64 /sec=51,64 /с
+51 258 /sec=51 258 /с
 52 sec.=52 сек.
 52,05 Million=52,05 млн
 522 /sec=522 /с
+52 852 /sec=52 852 /с
 53 sec.=53 сек.
 54 sec.=54 сек.
 54,26 /sec=54,26 /с
@@ -589,8 +730,11 @@
 55,62 /sec=55,62 /с
 555,35 Million=555,35 млн
 56 sec.=56 сек.
+56 953 /sec=56 953 /с
 57 sec.=57 сек.
+57,07 /sec=57,07 /с
 576 /sec=576 /с
+57 388 /sec=57 388 /с
 58 sec.=58 сек.
 58,86 Million=58,86 млн
 588,44 Million=588,44 млн
@@ -620,16 +764,19 @@
 5h 59m 17s=5h 59m 17s
 5h 59m 54s=5h 59m 54s
 5h 59m 59s=5h 59m 59s
+5 702 /sec=5 702 /с
 6 sec.=6 сек.
 6,00 Million=6,00 млн
 6,12 /sec=6,12 /сек
 6,17 Billion=6,17 млрд
+6,24 Billion=6,24 миллиарда
 6,25 Billion=6,25 млрд
 6,71 Billion=6,71 млрд
 6,82 /sec=6,82 /с
 60 sec.=60 сек.
 60,86 /sec=60,86 /с
 609 /sec=609 /с
+609,47 Million=609,47 миллионов
 61 sec.=61 сек.
 62 sec.=62 сек.
 62,01 /sec=62,01 /с
@@ -637,24 +784,37 @@
 628 /sec=628 /с
 63 sec.=63 сек.
 637 /sec=637 /с
+637,60 Million=637,60 миллионов
+639 /sec=639 /с
 64 sec.=64 сек.
 64,05 /sec=64,05 /с
 646 /sec=646 /с
+647,92 Million=647,92 миллиона
 65 sec.=65 сек.
 659,33 Million=659,33 миллиона
 66 sec.=66 сек.
 67 sec.=67 сек.
 677 /sec=677 /с
+677,82 Million=677,82 миллиона
 68 sec.=68 сек.
 68,48 /sec=68,48 /с
 68,85 /sec=68,85 /с
 69 sec.=69 сек.
 6h 00m 00s=6H 00M 00S
 6h 24m 53s=6 ч 24м 53 с
+6h 44m 02s=6H 44M 02S
+6h 44m 04s=6H 44M 04S
+6h 44m 56s=6H 44M 56S
+6h 45m 02s=6H 45M 02S
+6h 45m 10s=6H 45M 10S
+6h 45m 15s=6H 45M 15S
+6h 45m 18s=6H 45M 18S
+6h 45m 22s=6H 45M 22S
 6h 50m 26s=6H 50M 26S
 6h 52m 13s=6H 52M 13S
 6h 52m 57s=6H 52M 57S
 7 sec.=7 сек.
+7,18 Million/sec=7,18 миллионов/с
 7,95 Million=7,95 млн
 70 sec.=70 сек.
 70,24 /sec=70,24 /с
@@ -662,6 +822,8 @@
 72 sec.=72 сек.
 721 /sec=721 /с
 73 sec.=73 сек.
+73,52 Million/sec=73,52 миллиона/с
+73 581 /sec=73 581 /с
 74 sec.=74 сек.
 74,89 Million=74,89 млн
 74,90 /sec=74,90 /с
@@ -673,9 +835,11 @@
 78 sec.=78 сек.
 78,79 Million=78,79 млн
 79 sec.=79 сек.
+79 278 /sec=79 278 /с
 7h 52m 03s=7H 52M 03S
 7h 52m 26s=7H 52M 26S
 8 sec.=8 сек.
+8,14 Million/sec=8,14 миллиона/с
 8,16 /sec=8,16 /с
 8,27 Million=8 27 млн
 8,36 Million=8,36 млн
@@ -695,24 +859,34 @@
 83,43 /sec=83,43 /с
 84 sec.=84 сек.
 85 sec.=85 сек.
+85,61 /sec=85,61 /с
 86 sec.=86 сек.
+86 082 /sec=86 082 /с
 87 sec.=87 сек.
 87,25 /sec=87,25 /с
 88 sec.=88 сек.
 89 sec.=89 сек.
 8h 17m 24s=8H 17M 24S
+8h 18m 10s=8H 18M 10S
+8h 18m 16s=8H 18M 16S
+8h 18m 23s=8H 18M 23S
+8h 18m 33s=8H 18M 33S
+8h 18m 34s=8H 18M 34S
 8h 28m 03s=8h 28m 03s
 8h 28m 10s=8H 28M 10S
 8h 28m 49s=8H 28м 49 с
+8 611 /sec=8 611 /с
 9 sec.=9 сек.
 9,05 Million=9,05 млн
 9,26 Billion=9,26 млрд
 9,29 Million=9,29 млн
+9,36 Billion=9,36 млрд
 9,78 Million=9 78 млн
 90 sec.=90 сек.
 91 sec.=91 сек.
 91,29 /sec=91,29 /с
 914 /sec=914 /с
+914,20 Million=914,20 миллионов
 92 sec.=92 сек.
 93 sec.=93 сек.
 93,02 /sec=93,02 /с
@@ -721,10 +895,13 @@
 942 /sec=942 /с
 95 sec.=95 сек.
 956 /sec=956 /с
+956,40 Million=956,40 миллионов
+959 /sec=959 /с
 96 sec.=96 сек.
 96,47 Million=96,47 млн
 961 /sec=961 /с
 97 sec.=97 сек.
+971,87 Million=971,87 миллиона
 98 sec.=98 сек.
 98,74 Million=98,74 млн
 99 sec.=99 сек.
@@ -734,27 +911,37 @@
 9h 25m 47s=9h 25m 47 с
 9h 26m 18s=9H 26м 18 с
 9h 59m 11s=9H 59M 11S
+9h 59m 30s=9H 59 м 30 с
+9h 59m 31s=9H 59M 31S
 9h 59m 57s=9H 59M 57S
 9h 59m 59s=9H 59M 59S
+9 155 /sec=9 155 /с
 <b>Hello!</b>\nABCDEFG=<b>Привет!</b>\nABCDEFG
-<color\=yellow>Cat Teaser</color>\r\n\r\nMonmusu will not react negatively to your touches regardless of touching position. Effect lasts for <color\=#80FF80>1 minute</color>.=<color\=yellow>Кошачий тизер</color>\r\n\r\nMonmusu не будет негативно реагировать на ваши прикосновения, независимо от зоны касания. Эффект длится <color\=#80FF80>1 минуту</color>.
+<color\=yellow>Bandit</color> acquired skill <color\=yellow>Icebreaker</color>!=<color\=yellow>Бандит</color> изучил навык <color\=yellow>Высвобождение</color>!
+<color\=yellow>Business Skills</color>\r\n\r\n[Effect]  Increase gold production rate of adjacent units by <color\=#80FF80>10%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>150 units</color>.=<color\=yellow>Деловые навыки</color>\r\n\r\n[Эффект] увеличивает скорость производства золота соседних юнитов <color\=#80FF80>10%</color>.\r\n[Условия] Нанято <color\=#80FF80>150 юнитов</color>.
+<color\=yellow>Cat Teaser</color>\r\n\r\nMonmusu will not react negatively to your touches regardless of touching position. Effect lasts for <color\=#80FF80>1 minute</color>.=<color\=yellow>Кошачий тизер</color>\r\n\r\nДевушка-монстр не будет негативно реагировать на ваши прикосновения, независимо от зоны касания. Эффект длится <color\=#80FF80>1 минуту</color>.
 <color\=yellow>Cat Teaser</color>\r\n\r\n[Effect]Obtain <color\=#80FF80>1 Cat Teaser</color> when acquiring a skill.\r\n[Prerequisites]Hired <color\=#80FF80>10 units</color>.=<color\=yellow>Кошачий тизер</color>\r\n\r\n[Эффект] Получить <color\=#80FF80>1 кошачий тизер</color> при изучении навыка.\r\n[Условия] Нанято <color\=#80FF80>10 юнитов</color>.
 <color\=yellow>Citizen</color> acquired skill <color\=yellow>Magic Lamp</color>!=<color\=yellow>Гражданин</color> изучил навык <color\=yellow>Волшебная лампа</color>!
+<color\=yellow>Gold Production Rate+</color>\r\n\r\n[Effect]  Increase gold production rate by <color\=#80FF80>50%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>200 units</color>.=<color\=yellow>Скорость добычи золота+</color>\r\n\r\n[Эффект] Увеличивает скорость добычи золота на <color\=#80FF80>50%</color>.\r\n[Условия] Нанято <color\=#80FF80>200 юнитов</color>.
 <color\=yellow>Gold Production Rate+</color>\r\n\r\n[Effect]  Increase gold production rate by <color\=#80FF80>50%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>50 units</color>.=<color\=yellow>Скорость добычи золота+</color>\r\n\r\n[Эффект] Увеличивает скорость добычи золота на <color\=#80FF80>50%</color>.\r\n[Условия] Нанято <color\=#80FF80>50 юнитов</color>.
 <color\=yellow>Gold Production Speed+</color>\r\n\r\n[Effect]  Increase gold production speed by <color\=#80FF80>10%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>100 units</color>.=<color\=yellow>Скорость добычи золота+</color>\r\n\r\n[Эффект] Увеличивает скорость добычи золота на <color\=#80FF80>10%</color>.\r\n[Условия] Нанято <color\=#80FF80>100 юнитов</color>.
 <color\=yellow>Gold Production Speed+</color>\r\n\r\n[Effect]  Increate gold production speed by <color\=#80FF80>10%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>100 units</color>.=<color\=yellow>Скорость добычи золота+</color>\r\n\r\n[Эффект] Увеличивает скорость добычи золота на <color\=#80FF80>10%</color>.\r\n[Условия] Нанято <color\=#80FF80>100 юнитов</color>.
 <color\=yellow>Gold Production Speed+</color>\r\n\r\n[Effect]  Increate gold production speed by <color\=#80FF80>10%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>80 units</color>.=<color\=yellow>Скорость добычи золота+</color>\r\n\r\n[Эффект] Увеличивает скорость добычи золота на <color\=#80FF80>10%</color>.\r\n[Условия] Нанято <color\=#80FF80>80 юнитов</color>.
-<color\=yellow>Magic Lamp</color>\r\n\r\nThe per-second production rate of each unit becomes visible. Effect lasts for <color\=#80FF80>5 minutes</color>.=<color\=yellow>Волшебная лампа</color>\r\n\r\nОтображает секундную скорость производства каждого юнита. Эффект длится <color\=#80FF80>5 минут</color>.
+<color\=yellow>Icebreaker</color>\r\n\r\n[Effect]  Increase magic power production rate of adjacent units by <color\=#80FF80>10%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>100 units</color>.=<color\=yellow>Высвобождение</color>\r\n\r\n[Эффект] увеличивает скорость производства магии соседних юнитов <color\=#80FF80>10%</color>.\r\n[Условия] Нанято <color\=#80FF80>100 юнитов</color>.
+<color\=yellow>Magic Lamp</color>\r\n\r\nThe per-second production rate of each unit becomes visible. Effect lasts for <color\=#80FF80>5 minutes</color>.=<color\=yellow>Волшебная лампа</color>\r\n\r\nОтображает ежесекундную скорость производства каждого юнита. Эффект длится <color\=#80FF80>5 минут</color>.
 <color\=yellow>Magic Lamp</color>\r\n\r\n[Effect]  Obtain <color\=#80FF80>1 Magic Lamp</color> when acquiring a skill.\r\n[Prerequisites]  Hired <color\=#80FF80>1 units</color>.=<color\=yellow>Волшебная лампа</color>\r\n\r\n[Эффект] получить <color\=#80FF80>1 волшебную лампу</color> При приобретении навыка.\n[Предварительные условия] Нанять <color\=#80FF80>1 юнита</color>.
 <color\=yellow>Magic Lamp</color>\r\n\r\n[Effect]Obtain <color\=#80FF80>1 Magic Lamp</color> when acquiring a skill.\r\n[Prerequisites]Hired <color\=#80FF80>20 units</color>.=<color\=yellow>Волшебная лампа</color>\r\n\r\n[Эффект] Получить <color\=#80FF80>1 волшебную лампу</color> при изучении навыка.\r\n[Условия] Нанято <color\=#80FF80>20 юнитов</color>.
 <color\=yellow>Magic Lamp</color>\r\n\r\n[Effect]Obtain <color\=#80FF80>1 Magic Lamp</color> when acquiring a skill.\r\n[Prerequisites]Hired <color\=#80FF80>5 units</color>.=<color\=yellow>Волшебная лампа</color>\r\n\r\n[Эффект] Получить <color\=#80FF80>1 волшебную лампу</color> при изучении навыка.\r\n[Условия] Нанято <color\=#80FF80>5 единиц</color>.
-<color\=yellow>Magic Power Production Speed+</color>\r\n\r\n[Effect]  Increate magic power production speed by <color\=#80FF80>10%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>40 units</color>.=<color\=yellow>Скорость генерации магии+</color>\r\n\r\n[Эффект] Увеличивает скорость генерации магии на <color\=#80FF80>10%</color>.\r\n[Условия] Нанято <color\=#80FF80>40 юнитов</color>.
+<color\=yellow>Magic Power Production Rate+</color>\r\n\r\n[Effect]  Increase magic power production rate by <color\=#80FF80>50%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>80 units</color>.=<color\=yellow>Скорость производства магии+</color>\r\n\r\n[Эффект] увеличивает скорость производства магии на <color\=#80FF80>50%</color>.\r\n[Условия] Нанято <color\=#80FF80>80 юнитов</color>.
+<color\=yellow>Magic Power Production Speed+</color>\r\n\r\n[Effect]  Increate magic power production speed by <color\=#80FF80>10%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>40 units</color>.=<color\=yellow>Скорость производства магии+</color>\r\n\r\n[Эффект] Увеличивает скорость производства магии на <color\=#80FF80>10%</color>.\r\n[Условия] Нанято <color\=#80FF80>40 юнитов</color>.
 <color\=yellow>Skillful Negotiator</color>\r\n\r\n[Effect]  Decrease cost of one unit by <color\=#80FF80>50%</color> permanently.\r\n[Prerequisites]  Hired <color\=#80FF80>60 units</color>.=<color\=yellow>Искусный переговорщик</color>\r\n\r\n[Эффект] Снижает стоимость найма юнита на <color\=#80FF80>50%</color>.\r\n[Условия] Нанято <color\=#80FF80>60 юнитов</color>.  
+<color\=yellow>Slave</color> acquired skill <color\=yellow>Business Skills</color>!=<color\=yellow>Раб</color> изучил навык <color\=yellow>Деловые навыки</color>!
 <color\=yellow>Slave</color> acquired skill <color\=yellow>Gold Production Speed+</color>!=<color\=yellow>Раб</color> изучил навык <color\=yellow>Скорость добычи золота+</color>!
 <color\=yellow>Summon Support</color>\r\n\r\n[Effect]  Allow units to help speed up the purchase of a summon item.\r\n[Prerequisites]  Hired <color\=#80FF80>2 units</color>.=<color\=yellow>Поддержка призыва</color>\r\n\r\n[Эффект] Юниты ускоряют покупку предметов призыва.\r\n[Условия] Нанято <color\=#80FF80>2 юнита</color>.
 <color\=yellow>Summon Support</color>\r\n\r\n[Effect]  Allow units to help speed up the purchase of a summon item.\r\n[Prerequisites]  Hired <color\=#80FF80>20 units</color>.=<color\=yellow>Поддержка призыва</color>\r\n\r\n[Эффект] Юниты ускоряют покупку предметов призыва.\r\n[Условия] Нанято <color\=#80FF80>20 юнитов</color>.
 <color\=yellow>Summon Support</color>\r\n\r\n[Effect]  Allow units to help speed up the purchase of a summon item.\r\n[Prerequisites]  Hired <color\=#80FF80>40 units</color>.=<color\=yellow>Поддержка призыва</color>\r\n\r\n[Эффект] Юниты ускоряют покупку предметов призыва.\r\n[Условия] Нанято <color\=#80FF80>40 юнитов</color>.
-<color\=yellow>Wizard</color> acquired skill <color\=yellow>Magic Power Production Speed+</color>!=<color\=yellow>Волшебник</color> изучил навык <color\=yellow>Скорость генерации магии+</color>!
+<color\=yellow>Wizard</color> acquired skill <color\=yellow>Magic Power Production Rate+</color>!=<color\=yellow>Волшебник</color> изучил навык <color\=yellow>Скорость производства магии+</color>!
+<color\=yellow>Wizard</color> acquired skill <color\=yellow>Magic Power Production Speed+</color>!=<color\=yellow>Волшебник</color> изучил навык <color\=yellow>Скорость производства магии+</color>!
 <color\=yellow>Wizard</color> acquired skill <color\=yellow>Skillful Negotiator</color>!=<color\=yellow>Волшебник</color> изучил навык <color\=yellow>Искусный переговорщик</color>!  
 <sprite\="emoji" name\="gold"> 1,00 Trillion=<sprite\="emoji" name\="gold"> 1,00 триллиона
 <sprite\="emoji" name\="gold"> 1,60 Million=<sprite\="emoji" name\="gold"> 1,60 миллионов
@@ -767,6 +954,7 @@
 <sprite\="emoji" name\="gold"> 300,00 Million=<sprite\="emoji" name\="gold"> 300,00 млн
 <sprite\="emoji" name\="gold"> 5,00 Million=<sprite\="emoji" name\="gold"> 5,00 млн
 <sprite\="emoji" name\="gold"> 80,00 Billion=<sprite\="emoji" name\="gold"> 80,00 млрд
+<sprite\="emoji" name\="gold">1,31 Trillion=<sprite\="emoji" name\="gold">1,31 триллион
 <sprite\="emoji" name\="gold">1,54 Trillion=<sprite\="emoji" name\="gold">154 триллиона
 <sprite\="emoji" name\="gold">175,67 Million=<sprite\="emoji" name\="gold">175,67 млн
 <sprite\="emoji" name\="gold">177,93 Million=<sprite\="emoji" name\="gold">177,93 млн
@@ -775,7 +963,12 @@
 <sprite\="emoji" name\="gold">3,82 Billion=<sprite\="emoji" name\="gold">3,82 млрд
 <sprite\="emoji" name\="gold">328,09 Billion=<sprite\="emoji" name\="gold">328,09 млрд
 <sprite\="emoji" name\="gold">363,08 Billion=<sprite\="emoji" name\="gold">363,08 млрд
+<sprite\="emoji" name\="gold">5,68 Trillion=<sprite\="emoji" name\="gold">5,68 триллиона
+<sprite\="emoji" name\="gold">503,67 Billion=<sprite\="emoji" name\="gold">503,67 млрд
+<sprite\="emoji" name\="gold">547,68 Billion=<sprite\="emoji" name\="gold">547,68 млрд
 <sprite\="emoji" name\="gold">549,62 Billion=<sprite\="emoji" name\="gold">549,62 млрд
+<sprite\="emoji" name\="gold">6,59 Trillion=<sprite\="emoji" name\="gold">6,59 трлн
+<sprite\="emoji" name\="gold">6,74 Trillion=<sprite\="emoji" name\="gold">6,74 триллиона
 <sprite\="emoji" name\="gold">696,65 Billion=<sprite\="emoji" name\="gold">696,65 млрд
 <sprite\="emoji" name\="gold">88,98 Billion=<sprite\="emoji" name\="gold">88,98 млрд
 <sprite\="emoji" name\="gold">968,06 Billion=<sprite\="emoji" name\="gold">968,06 млрд
@@ -783,12 +976,18 @@
 <sprite\="emoji" name\="soul">1,09 Billion=<sprite\="emoji" name\="soul">109 млрд
 <sprite\="emoji" name\="soul">1,16 Billion=<sprite\="emoji" name\="soul">1,16 млрд
 <sprite\="emoji" name\="soul">1,56 Billion=<sprite\="emoji" name\="soul">1,56 млрд
+<sprite\="emoji" name\="soul">1,70 Billion=<sprite\="emoji" name\="soul">1,70 млрд
 <sprite\="emoji" name\="soul">21,88 Million=<sprite\="emoji" name\="soul">21,88 млн
 <sprite\="emoji" name\="soul">40,40 Million=<sprite\="emoji" name\="soul">40,40 млн
 <sprite\="emoji" name\="soul">411,13 Million=<sprite\="emoji" name\="soul">411,13 млн
 <sprite\="emoji" name\="soul">450,38 Million=<sprite\="emoji" name\="soul">450,38 млн
 <sprite\="emoji" name\="soul">452,09 Million=<sprite\="emoji" name\="soul">452,09 млн
 <sprite\="emoji" name\="soul">5,49 Billion=<sprite\="emoji" name\="soul">5,49 млрд
+<sprite\="emoji" name\="soul">647,41 Million=<sprite\="emoji" name\="soul">647,41 миллион
+<sprite\="emoji" name\="soul">697,51 Million=<sprite\="emoji" name\="soul">697,51 миллион
+<sprite\="emoji" name\="soul">8,46 Billion=<sprite\="emoji" name\="soul">8,46 млрд
+<sprite\="emoji" name\="soul">8,47 Billion=<sprite\="emoji" name\="soul">8,47 млрд
+<sprite\="emoji" name\="soul">8,54 Billion=<sprite\="emoji" name\="soul">8,54 миллиарда
 <sprite\="emoji" name\="soul">90,99 Million=<sprite\="emoji" name\="soul">90,99 млн
 > Auto=Авто
 >> Skip =Пропуск
@@ -1730,6 +1929,7 @@ x 17=x 17
 x 18=x 18
 x 19=x 19
 x 1=x 1
+x 200=X 200
 x 20=x 20
 x 21=x 21
 x 22=x 22
@@ -1740,6 +1940,7 @@ x 28=x 28
 x 29=x 29
 x 2=x 2
 x 30=x 30
+x 31=x 31
 x 33=x 33
 x 34=x 34
 x 35=x 35
@@ -1751,6 +1952,7 @@ x 44=x 44
 x 47=x 47
 x 50=x 50
 x 51=x 51
+x 52=x 52
 x 53=x 53
 x 54=x 54
 x 55=x 55
@@ -1768,6 +1970,7 @@ x 70=x 70
 x 71=x 71
 x 72=x 72
 x 75=x 75
+x 77=x 77
 x 7=x 7
 x 80=x 80
 x 85=x 85
@@ -1778,6 +1981,7 @@ x 8=x 8
 x 90=x 90
 x 96=x 96
 x 97=x 97
+x 98=x 98
 x 99=x 99
 x 9=x 9
 x0 Hire=x0 Нанять
@@ -3784,3 +3988,383 @@ x997 Hire=x997 Нанять
 x998 Hire=x998 Нанять
 x999 Hire=x999 Нанять
 xMAX=xMAX
+14h 29m 52s=14h 29m 52s
+14h 26m 01s=14h 26m 01s
+14h 10m 14s=14h 10m 14s
+14h 07m 41s=14H 07M 41S
+13h 56m 16s=13H 56M 16S
+15h 28m 18s=15h 28m 18s
+15h 24m 27s=15 ч 24м 27 с
+<sprite\="emoji" name\="gold"> 3,00 Trillion=<sprite\="emoji" name\="gold"> 3,00 триллиона
+<sprite\="emoji" name\="gold"> 800,00 Billion=<sprite\="emoji" name\="gold"> 800,00 млрд
+<sprite\="emoji" name\="gold"> 12,00 Trillion=<sprite\="emoji" name\="gold"> 12,00 трлн
+60,00 Billion=60,00 млрд
+<sprite\="emoji" name\="gold"> 15,00 Million=<sprite\="emoji" name\="gold"> 15,00 миллионов
+2,00 Million=2,00 миллионов
+1,18 Million=118 миллионов
+685,00 Million=685,00 миллионов
+8,35 Billion=8,35 млрд
+3d 06h 45m=3d 06h 45m
+15h 21m 50s=15h 21m 50S
+2h 18m 37s=2H 18M 37S
+7,77 Billion=7,77 млрд
+3d 06h 41m=3d 06h 41M
+2h 14m 37s=2H 14M 37S
+15h 17m 50s=15h 17m 50s
+2h 14m 36s=2H 14M 36S
+4,11 Million=4,11 миллиона
+8,98 Billion=8,98 млрд
+11h 50m 29s=11h 50m 29 с
+2,71 Million=2,71 миллион
+11h 50m 02s=11h 50m 02s
+17,09 Million=17,09 миллионов
+x 57=x 57
+11,66 Billion=11,66 млрд
+6,17 Million=6,17 миллионов
+13,46 Billion=13,46 млрд
+4,06 Million=406 миллионов
+25,64 Million=25,64 миллиона
+4,49 Billion=4,49 млрд
+318,80 Million=318,80 миллионов
+8,55 Million=8,55 миллионов
+129,83 Million=129,83 миллиона
+1,35 Million=1,35 миллиона
+2,06 Million=206 миллионов
+3,89 Billion=3,89 млрд
+11h 48m 19s=11h 48m 19S
+14h 31m 04s=14H 31M 04S
+15,91 Million=15,91 миллион
+2,52 Million=2,52 миллиона
+11h 46m 06s=11H 46M 06S
+14h 28m 27s=14h 28m 27 с
+14h 28m 19s=14h 28m 19S
+17,69 Million=17,69 миллионов
+18,31 Million=18,31 миллион
+278,97 Million=278,97 миллионов
+18,95 Million=18,95 миллионов
+4h 16m 47s=4H 16M 47S
+4h 16m 43s=4H 16M 43S
+4h 00m 52s=4H 00м 52 с
+3h 13m 27s=3H 13M 27S
+<sprite\="emoji" name\="soul">26,63 Billion=<sprite\="emoji" name\="soul">26,63 млрд
+17,64 Million=17,64 миллиона
+<sprite\="emoji" name\="gold">16,57 Trillion=<sprite\="emoji" name\="gold">16,57 трлн
+3,14 Million=3,14 миллиона
+x 95=x 95
+5d 00h 00m=5d 00h 00m
+14d 00h 00m=14d 00h 00m
+340,00 Billion=340,00 млрд
+<sprite\="emoji" name\="gold"> 5,00 Trillion=<sprite\="emoji" name\="gold"> 5,00 трлн
+<sprite\="emoji" name\="gold"> 10,00 Trillion=<sprite\="emoji" name\="gold"> 10,00 трлн
+<sprite\="emoji" name\="gold"> 50,00 Trillion=<sprite\="emoji" name\="gold"> 50,00 трлн
+26,46 Million=26,46 миллионов
+4,71 Million=4,71 миллион
+1,57 Million=1,57 миллионов
+8,82 Million=8,82 миллиона
+13d 23h 59m=13d 23h 59m
+2,92 Million=2,92 миллиона
+13d 23h 57m=13d 23H 57м
+
+
+
+Yvedde=Иведде
+Are you the one who summoned me? Fufufu, I'll make sure you won't regret it, don't you worry ♪=Вы тот, кто меня вызвал?\nFufufu, я позабочусь о том, чтобы вы не пожалеете об этом, не волнуйтесь ♪
+Yvedde’s special episode\r\nhas been unlocked!=Специальный эпизод Иведде был разблокирован!
+Race : Demon=Раса: Демон
+Yvedde\nis your new favorite.=Иведде - твой новый фаворит.
+You received <color\=yellow>1 Magic Lamp(s)</color> from Yvedde!=Вы получили <color\=yellow>1 Волшебную лампу</color> от Иведде!
+Ugh...!=Фу...!
+Aha, such a lovely voice. You are just too cute.=Ага, такой прекрасный голос.\nТы просто слишком милый.
+Wh-What the hell are you...?=Что ты, черт возьми, ты ...?
+No, no, I don't want to hear any backtalk. Come, now.=Нет, нет, я не хочу слышать никакой назад.\nПриходите, сейчас.
+Gah...! Urgh, ah...!=Гах ...\nУрг, ах ...!
+Yvedde drives her hoof into me again.=Иведде снова вонзит ее копыт в меня.
+She pulls on the collar around my neck, forcing me to look up at her.=Она тянет на воротник на моей шее, заставляя меня посмотреть на нее.
+What's wrong? Oh, that face... The face of someone getting teased. How arousing.=В чем дело?\nО, это лицо ... лицо кого -то дразнит.\nКак возбуждает.
+And that collar is so fetching on you, don't you think? Fufufufu.=И этот воротник так привлекает вас, не так ли?\nFufufufu.
+She's like a kid playing a prank on someone.=Она как ребенок, играющий на шутку на кого -то.
+But her smile is mature. A smile of arousal.=Но ее улыбка зрелая.\nУлыбка возбуждения.
+Yvedde, what are you doing all of a sudden...?=Иведде, что ты вдруг делаешь ...?
+Like I said, I can tell by your aura that you want it to happen to you.=Как я уже сказал, я могу сказать по вашей ауре, что вы хотите, чтобы это случилось с вами.
+Aura? The hell...?=Аура?\nЧерт возьми ...?
+Fufu, but you are enjoying it, aren't you...?=Фуфу, но тебе это нравится, не так ли ...?
+I...=Я...
+Now that she's pointed it out, I'm having a hard time denying it.=Теперь, когда она указала на это, мне трудно это отрицать.
+I guess I'm not exactly hating it...=Думаю, я не совсем ненавижу ...
+At any rate, Yvedde is a demon girl.=Во всяком случае, Yvedde - девушка -демон.
+I've always loved monster girls, and being stepped on by one like this is... Well, I guess I was asking for it.=Я всегда любил девушек -монстров, и меня наступило на один такой, как это ... ну, я думаю, я просил об этом.
+What's this? Did you just swallow a mouthful of saliva?=Что это?\nВы только что проглотили глоток слюны?
+Fufu, oh, you... You do enjoy being stepped on like this after all, don't you?=Фуфу, о, ты ... тебе нравится, когда меня наступают так, не так ли?
+You are just an unrepentant pervert, aren't you?=Вы просто нераскаявшийся извращенец, не так ли?
+Gah! Dammit... I can't deny it...!=Гам!\nЧерт возьми ... я не могу это отрицать ...!
+After all, I did learn summoning magic just so I could summon monster girls.=В конце концов, я узнал, что вызывает магию, чтобы я мог вызвать девушек -монстров.
+That alone would be enough for any normal person to call me a pervert.=Одних это было бы достаточно для любого нормального человека, чтобы назвать меня извращенцем.
+You did make a contract with me after summoning me, didn't you?=Вы сделали контракт со мной после того, как вызовили меня, не так ли?
+If you hadn't wanted this, you wouldn't have done such a thing... You salacious summoner, you.=Если бы вы этого не хотели, вы бы не сделали такую ​​вещь ... вы прокат, вы.
+Ghah!=Гад!
+I'm being stepped on by the beautiful Yvedde as she hurls insults and accusations at me.=Меня наступит прекрасное Иведде, когда она швыряет оскорбления и обвинения на меня.
+That's enough to make my spine tingle with excitement.=Этого достаточно, чтобы сделать мой позвоночник с волнением.
+And looking up at her from this angle gives me a great view of her, too.=И смотреть на нее с этого угла дает мне отличный вид на нее.
+Shit...=Дерьмо...
+I'm more perverted than even I knew.=Я более извращен, чем даже знал.
+Hehehe, that face you're making is so lovely...=Хе -хе, это лицо, которое ты делаешь, так мило ...
+Come on, you can tell me what else you want me to do to you.=Давай, ты можешь сказать мне, что еще ты хочешь, чтобы я с тобой сделал.
+How do you want me to abuse you? Well? Come on, tell me!=Как ты хочешь, чтобы я тебя оскорблял?\nХорошо?\nДавай, скажи мне!
+I... I...=Я ... я ...
+I want you to step on me more, Yvedde!!=Я хочу, чтобы ты наступил на меня больше, Иведде !!
+Fufufu, you're beyond help...=Fufufu, вы не помогаете ...
+But, as you wish. I'll keep stomping on you... Hai-yah!=Но, как вы хотите.\nЯ буду продолжать топнуть на тебя ... Хай-Ях!
+Fu— aargh...?!=Fu - aargh ...?!
+She puts more of her weight into each successive stomp.=Она вкладывает больше своего веса в каждый последовательный топ.
+Yvedde's body is pretty small, so she's light.=Тело Иведде довольно маленькое, поэтому она легкая.
+But those demonic, cloven hooves keep digging into me relentlessly.=Но эти демонические, продлевые копыта продолжают безжалостно копаться в меня.
+Hehe, how's this? You like it?=Хе -хе, как это?\nВам нравится это?
+Y-Yeah, it's better than I thought...=Да, это лучше, чем я думал ...
+Yvedde's wings flap in glee.=Крылья Иведде в радости.
+And her tail's been swinging back and forth for a while now.=И ее хвост некоторое время качался взад -вперед.
+Ah... I could stay like this forever...=Ах ... я мог бы остаться таким навсегда ...
+I mutter that to myself as I look up at Yvedde, who's brimming with delight.=Я пробормотал это про себя, когда смотрю на Иведде, который наполняется восторгом.
+But... the more I stare at her, the more I start to realize how amazing her body is.=Но ... чем больше я смотрю на нее, тем больше я начинаю понимать, насколько удивительно ее тело.
+In a word, it's erotic.=Одним словом, это эротично.
+Oh...?=Ой...?
+Urgh... C-Crap...!=Ург ... C-CRAP ...!
+Yvedde's hoof has stomped its way onto my crotch.=Копыта Yvedde утолкнулись на мою промежность.
+Before I know it, my dick is poking up in my pants next to her hoof.=Прежде чем я это узнаю, мой член ткнул в штаны рядом с ее копытом.
+Fufufu... Oh, yes... I can tell how aroused you are. You're quite the degenerate ♪=Фуфуфу ... о, да ... Я могу сказать, как ты возбужден.\nТы вполне вырожденный ♪
+I watch Yvedde lick her lips as she speaks.=Я смотрю, как Иведде облизывает ее губы, когда она говорит.
+She begins to skillfully remove my penis from my pants with her hoof.=Она начинает умело снимать мой пенис с штанов с копытом.
+How disgusting you are to be getting off on something like this.=Как вы противны встать на что -то подобное.
+I-It's not like I can help it!=Я-это не так, как я могу помочь!
+It's not just this beautiful woman stepping on my crotch.=Это не только эта красивая женщина, наступающая на мою промежность.
+I get to watch her smoking hot body at work. Of course I'm getting off.=Я смотрю, как она курит горячее тело на работе.\nКонечно, я выхожу.
+Not that I'm blaming you, of course. Hehehe.=Конечно, я не виню вас.\nХе -хе.
+All right, how about I do something even more amazing to you? ♪=Хорошо, как насчет того, чтобы сделать для вас что -то еще более удивительное?\n♪
+Whoa... Y-You can't step on... Guh!=Вау ... да-ты не сможешь наступить ... Гу!
+Her hoof comes down over and over on my penis, hitting all the right spots.=Ее копыто спускается снова и снова на моем пенисе, ударяя все правильные места.
+She's even managing to rub it up and down with her hoof.=Ей даже удается потратить его вверх и вниз со своим копытом.
+Mm... Ahn, wonderful... I see your cock is becoming more and more lively ♪=ММ ... Ан, замечательно ... Я вижу, что твой член становится все более и более живым ♪
+Oh, the tip is even twitching. Is that where it feels the best?=О, наконечник даже дергается.\nЭто где это кажется лучшее?
+Y-Yeah, it's incredible... Gaah!=Да, это невероятно ... Гаа!
+I can't hold out much longer beneath the touch of Yvedde's hoof.=Я не могу продержаться гораздо дольше под прикосновением копыта Иведде.
+I can feel semen welling up inside me, searching for an exit to explode out of.=Я чувствую, как сперма продуманна внутри меня, ищет выход, чтобы взрываться.
+Getting aroused just from being stepped on. How fucked up can you be? ♪=Вызвать просто от наступления.\nНасколько ты облажался?\n♪
+But that's what I like about you.=Но это то, что мне нравится в тебе.
+So go ahead and shoot your load... Okay?=Так что иди и стреляй в груз ... хорошо?
+Yvedde gets rougher and rougher with her hoof.=Иведде становится все более грубее и грубее со своим копытом.
+She works my cock without hesitation.=Она работает по моему члену без колебаний.
+Yvedde, any more and I'm... gonna...!=Yvedde, больше, и я ... собираюсь ...!
+You really are hopeless, aren't you? Fufufu, I'll make sure you cum soon ♪=Вы действительно безнадежные, не так ли?\nFufufu, я позабочусь, чтобы вы скоро кончили ♪
+Now come on, let it out ♪=Теперь давай, выпусти это ♪
+Ghk, I can't... I'm cumming...!!=GHK, я не могу ... я кончу ... !!
+Ah... What an impressive amount... So full of that thick male aroma.=Ах ... какое впечатляющее количество ... настолько полное этого толстого мужского аромата.
+She pushes me way past my limit, and I spew a huge amount of cum.=Она проталкивает меня мимо моего предела, и я извергаю огромное количество спермы.
+Seen clings to her leg in stringy droplets.=Видно, что цепляются за ее ногу в струнных капельках.
+Haah, haah, haah, guh...=Хаах, Хаах, Хаах, Гу ...
+So much cum... Amazing... ♪=Так много спермы ... потрясающе ... ♪
+You just came, but I can see that you're still rock hard... ♪=Ты только что пришел, но я вижу, что ты все еще тяжелый ... ♪
+Haah, haah... Yvedde, not yet...=Хаах, ха -ха ... yvedde, пока еще не ...
+It's true. I came all over her, but my dick hasn't deflated at all.=Это правда.\nЯ пришел на всю нее, но мой член вообще не сдулся.
+If anything, it's only gotten harder.=Во всяком случае, это становится все труднее.
+Fufu, relax. I'll make it feel better than you could imagine...=Фуфу, расслабься.\nЯ сделаю это лучше, чем вы могли себе представить ...
+Wah...!=Вау!
+Yvedde pushes me down and straddles me.=Иведде меня толкает и обрывает меня.
+She gently pushes me down so my back is touching the ground and guides my dick into her pussy.=Она осторожно толкает меня, поэтому моя спина касается земли и направляет мой член в свою киску.
+HaaaAAaaAa....! It's in, it's inside me...!=Haaaaaaaaaa ....!\nЭто внутри, это внутри меня ...!
+Oh, your dick is so deep...!=О, твой член такой глубокий ...!
+Whaa...! Yvedde, wait... Ghk, your tail's... inside...!=Что ...!\nYvedde, подожди ... ГК, твой хвост ... внутри ...!
+Her tail, wriggling and writhing like a snake, pushes against my anus.=Ее хвост, извивающийся и корчась, как змея, толкает мой анус.
+It slithers around as if trying to dig its way in until it finally breaks through.=Он скользит вокруг, как будто пытается копаться, пока он, наконец, не пробится.
+Fufufu, isn't my tail just the greatest...?=Фуфуфу, разве мой хвост не самый величайший ...?
+And... Mm, as I violate you with my tail, I can feel your cock pushing deep inside me.=И ... мм, когда я нарушаю тебя своим хвостом, я чувствую, что твой член глубоко толкает меня.
+I think I might... cum soon...!=Думаю, я мог бы ... Скоро кончить ...!
+Khhgh... I-I can't...! Fuck...!!=ХХХ ... Я-Я не могу ...!\nЕбать...!!
+I can feel her warm, slimy pussy constricting my dick.=Я чувствую ее теплую, слизистую киску, сжимающую мой член.
+And her tail is penetrating my asshole, teasing my insides.=И ее хвост проникает в мой мудак, дразнит мои внутренности.
+Ngh... Hah, ah, mmmm, incredible. Still so hard!=Ngh ... ха, ах, мммм, невероятно.\nВсе еще так тяжело!
+Oh, dear, I... I can't stop my hips from moving...!=О, дорогая, я ... я не могу остановить движения бедер ...!
+Yvedde rocks her hips back and forth, sending out gross sounds with each movement.=Иведде раскачивает бедра взад -вперед, посылая грубые звуки с каждым движением.
+The little devil dances her indecent dance on top of me.=Маленький дьявол танцует ее непристойный танец на меня.
+This feels too good! I'm cumming, I'm cummiiiing!=Это слишком хорошо!\nЯ кончаю, я cummiiiing!
+Haah, haah, Yvedde... Me... too... No more, I can't hold on!=Ха -ха, ха -ха, yvedde ... я ... тоже ... не больше, я не могу держаться!
+I've never felt this kind of pleasure before.=Я никогда раньше не чувствовал такого удовольствия.
+I just came a moment ago, but I can already feel another orgasm welling up inside me.=Я только что пришел минуту назад, но я уже чувствую еще один оргазм, обоснованный во мне.
+Good, then let's... cum together, shall we?=Хорошо, тогда давайте ... сем вместе, не так ли?
+My womb will be sure to catch all of it... ♪=Моя матка обязательно поймает все это ... ♪
+Ugh... Gah, Yvedde... Haah, haah, gaaaah...!=Тьфу ... Гах, Йедде ... Хаа, хаа, Гааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааа
+Yvedde speeds up, bringing our orgasms ever closer.=Иведде ускоряется, приближая наши оргазмы.
+Soon, I'm on the edge.=Вскоре я на грани.
+I'm cumming... I can't stop it, Yvedde...!!=Я кончаю ... Я не могу остановить это, yvedde ... !!
+Ahn, ah, ah, ah, give it to meeee, I'm cumming, tooo... ah, ah, ah.=Ан, ах, ах, дай мне это, я тоже кончаю ... ах, ах, ах.
+Cumming...! NgaaaAAaAaaaaAaa!!!=Кумминг ...!\nNgaaaaaaaaaaaaaaaa !!!
+Cumming, cum, cuuuuum! I'm cummiiiing!=Камминг, сперма, кууууум!\nЯ cummiiiing!
+Ghk... waaaaah...!=GHK ... вааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааа
+I'm at the end of my rope.=Я в конце веревки.
+I blow my load into Yvedde with as much force as I can muster.=Я вкладываю свой груз в Иведде с такой силой, насколько я могу собрать.
+Mmgh, hah, ah, ah, it's coming out... That sweet, male seed... is overflowiiing...=Mmgh, ха, ах, ах, это выходит ... это сладкое, мужское семя ... переполняет ...
+Haah, haah... So much... cum... I'm so full... ♪=Ха -ха, ха -ха ... так много ... сперма ... я так полно ... ♪
+True to her word, she holds onto every drop.=Верная своему слову, она держит каждую каплю.
+Yvedde smiles, her features slack with an overload of ecstasy.=Иведде улыбается, ее функции ослабляют перегрузку экстаза.
+We're still connected, though.=Мы все еще связаны, хотя.
+The walls of her vagina begin to tighten painfully around my cock.=Стены ее влагалища начинают мучительно затягиваться вокруг моего члена.
+Gah, you're milking me...!=Гах, ты добишь меня ...!
+Ngh... Haah, haah... Aha, you've still got some left... ♪=Ngh ... хай, ха -ха ... ага, у тебя все еще осталось ... ♪
+My pussy is magnificent, isn't it?=Моя киска великолепна, не так ли?
+Y-Yeah... The best...=Да-да ... Лучший ...
+I shouldn't be surprised. She's a demon girl, after all.=Я не должен удивляться.\nВ конце концов, она девушка -демон.
+I feel like she sucked my whole soul out through my dick.=Я чувствую, что она высасывала всю мою душу через мой член.
+Fufu... Oh, I've grown to like you.=Фуфу ... о, я вырос, чтобы понравиться тебе.
+If you summon me again... I'll make you feel even better than that.=Если вы призовите меня снова ... Я заставлю вас чувствовать себя еще лучше, чем это.
+S-Sure... Got it...=S-Sure ... получил это ...
+When I do, I'll be counting on you, Yvedde.=Когда я это сделаю, я рассчитываю на тебя, Иведде.
+Without thinking, I loudly swallow the saliva that had built up in my mouth.=Не думая, я громко глотаю слюну, которая накапливалась во рту.
+I still want to savor this feeling.=Я все еще хочу насладиться этим чувством.
+I nod blankly at Yvedde's invitation.=Я тупо киваю по приглашению Йедде.
+
+
+Sharifa=Шарифа
+I am the lamia Sharifa. You are the one who summoned me, aren't you? Fufufu, pleased to make your acquaintance.=Я Шарифа - ламия.\nТы тот, кто вызвал меня, не так ли?\nFufufu, рада познакомиться.
+Sharifa’s special episode\r\nhas been unlocked!=Специальный эпизод Шарифы был разблокирован!
+Race : Lamia=Раса: Ламия
+Sharifa\nis your new favorite.=Шарифа - твой новый фаворит.
+...Hey.=...Привет.
+Hmm? Is something wrong, Sharifa?=Хм?\nЧто -то не так, Шарифа?
+You're a strange one to want to use my tail as a pillow. Can you even sleep like that?=Ты странный, чтобы захотеть использовать мой хвост в качестве подушки.\nВы можете даже так спать?
+She asks me playfully as I lie with my head against her body.=Она игриво спрашивает меня, когда я лежу головой против ее тела.
+It's not an unreasonable thing to ask... I think.=Спросить ... я думаю, это не необоснованная вещь.
+I did, after all, ask to sleep with her as soon as I summoned her.=В конце концов, я попросил спать с ней, как только я вызвал ее.
+Are you kidding? This feels amazing.=Вы шутите?\nЭто чувствует себя потрясающе.
+But don't humans think that snakes' tails feel gross?=Но разве люди не думают, что хвосты змей чувствуют себя грубыми?
+Not at all! In fact, they're some of the best tails out there!!=Нисколько!\nНа самом деле, они одни из лучших хвостов !!
+I've always wanted to lay my head on a monster girl's lap like this.=Я всегда хотел положить голову на колени девушки -монстра.
+Even this is incredibly arousing.=Даже это невероятно возбуждает.
+Of course, since she's a lamia, there's no way she can take the snake tail off.=Конечно, так как она ламия, она никак не может снять хвост змеи.
+Plus, your scales are silky smooth, Sharifa. They've got a nice feel.=Плюс, ваши весы шелковистые гладкие, Шарифа.\nУ них приятно.
+They're nice and cool, and hugging your tail calms me down. Most of all, it's beautiful.=Они милые и крутые, и обнимая хвост, успокаивает меня.\nПрежде всего, это красиво.
+Wha...?! R-Really? Hearing you say that does make me happy.=Что ...?!\nR-реально?\nСлушая, что вы говорите, что делает меня счастливым.
+Fufu... Did you know that it's quite common for lamias to praise each other's scales when courting?=Фуфу ... Знаете ли вы, что Ламиас довольно часто восхваляет масштабы друг друга при ухаживании?
+I wasn't aware you summoned me here to try to woo me.=Я не знал, что ты вызвал меня сюда, чтобы попытаться ухаживать за мной.
+Urk... N-No, it's the honest truth. Don't read too deeply into it...=Урк ... Н-нет, это честная правда.\nНе читайте слишком глубоко в это ...
+The tip of Sharifa's tail wags back and forth happily.=Кончик хвоста Шарифы счастливо видит взад -вперед.
+She seems slightly embarrassed.=Она кажется немного смущенной.
+Her staring at me with that seductive gaze makes me feel a little embarrassed as well.=Ее уставилось на меня этим соблазнительным взглядом, я тоже немного смутился.
+It seems that I've been summoned by a rather decent person... Fufu.=Кажется, что меня вызвал довольно порядочный человек ... Фуфу.
+Very well, if that is your wish, then you may use my tail as a pillow.=Очень хорошо, если это ваше желание, то вы можете использовать мой хвост в качестве подушки.
+Great, thanks for letting me.=Отлично, спасибо, что позволили мне.
+But the truth is that her body does feel great.=Но правда в том, что ее тело чувствует себя прекрасно.
+The snake part of her definitely feels odd, but that oddness what I love most about monster girls.=Змеиная часть ее определенно кажется странной, но эта странность я больше всего люблю в монстрах.
+Even her human part looks like a lovely, mature woman. She looks so supple and soft.=Даже ее человеческая часть выглядит как прекрасная, зрелая женщина.\nОна выглядит такой гибкой и мягкой.
+Haah... This is paradise...=Хаах ... это рай ...
+I really will fall asleep if I stay like this.=Я действительно засну, если останусь таким.
+Fufu... You look so relaxed. It's very cute, you know.=Фуфу ... ты выглядишь таким расслабленным.\nЗнаешь, это очень мило.
+She pokes my face with the tip of her tail.=Она трясет мое лицо с кончиком своего хвоста.
+I open my eyes to find the upper half of her body hovering right in front of me. Is she playing a trick on me or something?=Я открываю глаза, чтобы найти верхнюю половину ее тела, парящей прямо передо мной.\nОна играет на меня или что -то в этом роде?
+Sharifa...?=Шарифа ...?
+It's unfair if you're the only one who gets to have fun.=Это несправедливо, если вы единственный, кто получает удовольствие.
+It's only fair that I should get to enjoy myself as well, don't you think?=Справедливо, что я тоже должен наслаждаться, не так ли?
+That's... Of course...=Это ... конечно ...
+In that case... Hup.=В этом случае ... Хуп.
+She breathes a slight, seductive sigh.=Она дышит легким, соблазнительным вздохом.
+She's coiled herself around my lower half.=Она обрушилась на мою нижнюю половину.
+And just like that, she lays her own head against my thighs.=И именно так она прикладывает свою голову к моим бедрам.
+This is the first time I've ever laid my own head on a human's lap.=Это первый раз, когда я положил свою собственную голову на колени человека.
+Fufu, I think I see what you like about it.=Фуфу, я думаю, я вижу, что тебе нравится в этом.
+Sharifa rubs her face against my thighs playfully.=Шарифа игриво втирает лицо по бедрам.
+Every rub makes me less relaxed and more restless.=Каждый руб делает меня менее расслабленным и более беспокойным.
+Hey, Sharifa... This double lap pillow is nice and all...=Эй, Шарифа ... эта подушка с двойным кругом хороша, и все ...
+But do you really have to get so close...?=Но вам действительно нужно подойти так близко ...?
+What do you mean by... getting close...?=Что ты имеешь в виду под ... приблизиться ...?
+She leans her head in near mine, and I see her tongue flicking in and out of her mouth like a snake's.=Она наклоняет голову рядом с моей, и я вижу, как ее язык щелкает в рот, как змея.
+It's like she's licking her lips in anticipation of a meal...=Как будто она облизывает губы в ожидании еды ...
+Urgh...=Ург ...
+Fufu... If you don't have a problem with it, why can't we stay like this?=Fufu ... если у вас нет проблем с этим, почему мы не можем остаться такими?
+And as she says it, she begins to rub her face against my thighs again.=И когда она это говорит, она снова начинает тереть лицо по моим бедрам.
+...What's this?=...Что это?
+I realize that Sharifa is suddenly inspecting my crotch.=Я понимаю, что Шарифа внезапно осматривает мою промежность.
+Wh-What is it, Sharifa?=Что это, Шарифа?
+Hehehe, you may have enough power to summon me, but boys will still be boys.=Хе -хе, у тебя может быть достаточно силы, чтобы вызвать меня, но мальчики все еще будут мальчиками.
+As she cheerfully teases me, she begins to remove the shawl covering her chest.=Когда она весело дразнит меня, она начинает снимать платок, покрывающую ее грудь.
+She takes my penis out of my pants at the same time.=Она вынимает мой пенис из штанов одновременно.
+Wait... Hold on, Sharifa! What are you doing...?=Подожди ... держись, Шарифа!\nЧто ты делаешь...?
+Your cock is hard, isn't it?=Ваш член жесткий, не так ли?
+Were you perhaps aroused by my scales?=Вы, возможно, вызвали мои весы?
+Ghk...?!=GHK ...?!
+She casually sandwiches my dick between her voluptuous breasts.=Она случайно бутербродает мой член между ее сладострастной грудью.
+Then, she begins to massage my dick with them, rubbing up and down.=Затем она начинает массировать мой член с ними, потирая и вниз.
+W-Wait a minute, Sharifa...!=W-wait минуту, Шарифа ...!
+There's no need to be so uptight... Besides, you are my master, aren't you?=Там не нужно быть таким взволнованным ... кроме того, ты мой хозяин, не так ли?
+Command me to sate your lust, and I could hardly offer any resistance.=Прикажите мне посадить вашу похоть, и я вряд ли мог оказать какое -либо сопротивление.
+I suppose that's true, but...=Я полагаю, это правда, но ...
+Now that she's started it, I can't help but want her to keep going.=Теперь, когда она начала это, я не могу не хотеть, чтобы она продолжала идти.
+How could I refuse doing naughty things with a monster girl?=Как я мог отказаться от того, чтобы делать непослушные вещи с девушкой -монстром?
+Just keep staring, okay? I'll make it feel even better.=Просто продолжай смотреть, хорошо?\nЯ сделаю это еще лучше.
+Her tongue slithers from her mouth and wraps around my cock.=Ее язык скользит изо рта и оборачивается вокруг моего члена.
+Hnn... ssslf, lsssch... You're leaking something from your tip.=Hnn ... ssslf, lsssch ... ты что -то протекаешь из своего совета.
+Ssschlp... lssschp, mm... Amazing... The taste of your cum is so rich...=Ssschlp ... lssschp, мм ... потрясающе ... вкус вашей спермы такой богатый ...
+Her tongue tickles the places where it's tightening.=Ее язык щекочет места, где он затягивает.
+As she licks the tip over and over again, more and more precum begins to spill out.=Когда она снова и снова облизывает наконечник, все больше и больше начинается выбросить.
+Is it that you want to make a baby with me? What an indecent man you are.=Вы хотите завести ребенка со мной?\nКакой ты неприличный человек.
+But I don't dislike the taste of human cum. That's why I'm going to squeeze every last drop out of you...=Но мне не нравится вкус человеческой спермы.\nВот почему я собираюсь выжать из вас каждый последний бросок ...
+You can't! If you keep doing that...!=Вы не можете!\nЕсли ты продолжаешь это делать ...!
+The movement of her completely inhuman tongue...=Движение ее совершенно бесчеловечного языка ...
+That tongue is slithering over my dick in all the right places, and soon, I can feel an orgasm building inside me.=Этот язык скользит по моему члену во всех нужных местах, и вскоре я почувствую здание оргазма внутри меня.
+Ssslurp, ssshlah, mmph... Come on, let it out... Sschlp, don't hold out on me.=SSSlurp, SSSHLAH, MMPH ... давай, выпусти это ... sschlp, не держись на мне.
+Pssschp, ssschlk... Ssslurp, I'll make sure to catch every drop... Mmmph.=PSSSCHP, SSSCHLK ... SSSLURP, я обязательно поймаю каждую каплю ... MMMPH.
+S-Sure. I'm... about to... cum...! Gwaaah!=S-Sure.\nЯ ... собираюсь ... сперма ...!\nГваааа!
+Ahn... How wonderful. Your stream is so strong...!=Ан ... как замечательно.\nВаш поток такой сильный ...!
+It's only a matter of time until I've reached my limit, and before I know it, I'm cumming.=Это всего лишь вопрос времени, пока я не достиг своего предела, и прежде чем я его узнаю, я кончу.
+Hehe, if you let out that much, then it must have felt really good, right?=Хе -хе, если ты издаешь так много, то, должно быть, это было действительно хорошо, верно?
+Schlp... Mm, and it's so thick... Ssschlp, mmgh...=Schlp ... мм, и он такой густой ... ssschlp, mmgh ...
+Haah, haah... I warned you...=Ха -ха, ха -ха ... я предупредил тебя ...
+I can't help but feel like she played me somehow. It doesn't sit well with me.=Я не могу не чувствовать, что она как -то сыграла меня.\nЭто не очень хорошо со мной.
+If that's the case...=Если это так ...
+Sharifa, earlier you said that it was unfair if only one of us was having fun, didn't you?=Шарифа, ранее вы говорили, что это было несправедливо, если только один из нас веселился, не так ли?
+So I think it's only fair if I give you your turn.=Так что я думаю, что это справедливо, только если я дам тебе твою очередь.
+Hyah?! Wait, wha-what are you doing?!=Хай?!\nПодожди, что ты делаешь?!
+In order to pay her back, I grab her tail and stand up.=Чтобы вернуть ее, я схватил ее за хвост и встаю.
+Nghaaah...! S-Stop, wait! Not so quick...!=Nghaaah ...!\nS-Stop, подождите!\nНе так быстро ...!
+Nooo... Ngaah, your dick... is reaching so deep inside me!=Неооо ... нгаах, твой член ... так глубоко во мне так глубоко!
+Hugging Sharifa's tail, I force my dick into her pussy.=Обнимая хвост Шарифы, я заставляю свой член в ее киску.
+She's already so wet that it slides in all the way to the hilt.=Она уже настолько влажной, что скользит вплоть до рукояти.
+Ngh... Hyah, ah, move... Fwah, ah, ah, ah!=Н.Г. ... Хай, ах, двигаться ... fwah, ах, ах, ах!
+Hey... You can't... do that! Hah, ah, wait... Please, wait...!=Эй ... ты не можешь ... сделать это!\nХа, ах, подожди ... пожалуйста, подожди ...!
+No, I won't wait. It's my turn now!=Нет, я не буду ждать.\nСейчас моя очередь!
+After she played with me with her tongue like that, I don't feel bad about pounding her full force.=После того, как она сыграла со мной со своим языком, я не чувствую себя плохо из -за того, что она стучала в полную силу.
+I hold onto her tail to make sure she can't get away.=Я держусь за ее хвост, чтобы убедиться, что она не может уйти.
+Sto— ah, ah...! The tip of my tail... is sensitive...!=СТО - Ах, ах ...!\nКончик моего хвоста ... чувствителен ...!
+Ngghh, hah, ah, nnghaaah...! N-No more, stop... Stop!=Нгхх, ха, ах, ннхаааааааааааааааааааааааааааааааааааааааааааа\nН-нет, остановись ... Стоп!
+What was that? The tip of a lamia's tail is sensitive, you said?=Что это было?\nВы сказали, что кончик хвоста Ламии чувствителен?
+This is news to me.=Это новость для меня.
+Monster girl biology sure is fascinating.=Monster Girl Biology, конечно, увлекательна.
+But if touching it feels good, then I have to keep playing with it.=Но если прикоснуться, это чувствует себя хорошо, то я должен продолжать играть с этим.
+This is payback for the tongue job.=Это окупаемость за работу языка.
+I fiddle with the tip of her tail using my finger as I pound Sharifa's pussy.=Я ворваюсь с кончиком ее хвоста, используя мой палец, когда я стучал в киску Шарифы.
+Ngaah, ahn, ah, ah, no...! Hah, ah, ah, ngaaah...!=Нгаах, Ан, ах, нет ...!\nХа, ах, ах, нгаааа ...!
+That's... too... deep! Your dick... is so deep... inside me...!=Это ... тоже ... глубоко!\nТвой член ... такой глубокий ... внутри меня ...!
+And my tail! Hnnnaah, it's going numb.... No more, you're too rough... I'm gonna cum!=И мой хвост!\nHnnnaah, это онемеет .... не больше, ты слишком грубый ... Я собираюсь кончить!
+Under such a forceful attack, Sharifa must be losing control. Drool is dribbling down her chin.=При такой сильной атаке Шарифа должна терять контроль.\nСлюни падают по ее подбородку.
+Her giant boobs bounce and sway in time with my pounding.=Ее гигантские сиськи подпрыгивают и вовремя качаются с ударом.
+Nguh, haah, haah, go a little... slower... Mmf, hah, ah, ah.=Nguh, хаа, хай, иди немного ... медленнее ... ММФ, ха, ах, ах.
+At least... stop with my tail... Hnngh, st... I'll cum, I'll cum!=По крайней мере ... Остановись с моим хвостом ... Hnngh, ST ... Я кончу, я кончу!
+Good, then cum!=Хорошо, тогда кончи!
+Ngaaaah! I'll cum, I'll cum, I'm gonna cum...! I really will cum!=Ngaaaah!\nЯ кончу, я кончу, я кончу ...!\nЯ действительно кончу!
+Sharifa shakes her head from side to side as if cumming would be the worst thing in the world.=Шарифа качает головой из стороны в сторону, как будто концерн будет худшим в мире.
+But in this position, even the synchronized movements of our hips feel amazing.=Но в этой позиции даже синхронизированные движения наших бедер чувствуют себя потрясающе.
+Haah, haah... I'm almost there myself.=Ха -ха, ха -ха ... Я почти там сам.
+As am... Ngaah, I'm... gonna cum... FwaaAAAAaaAAaaa!!=Как и ... ngaah, я ... собираюсь кончить ... fwaaaaaaaaaaaaaa !!
+Ghk... Sharifaaa!!!=GHK ... Sharifaaa !!!
+Ah, ah, ah... It's coming out... so hot... inside of me...!=Ах, ах ... это выходит ... так жарко ... внутри меня ...!
+I thrust one last time, putting all my strength into it, and as I do, I shoot a huge amount of thick, hot cum into her womb.=В последний раз я толкнул все свои силы, и, как и я, я снимаю огромное количество густой горячей спермы в ее матку.
+Soon, even her womb is full and it begins leaking out from her pussy.=Вскоре даже ее чрево заполнено, и это начинается вытекать из ее киски.
+Haah, haah, haah... Hah, ah... Too full... Mmgh, urgh...=Хаах, Хаах, ха -ха ... ха, ах ... Слишком полно ... ммг, Ург ...
+You're such a violent person.=Ты такой жестокий человек.
+But as it turns out... I like that kind of person. Ufufufu.=Но, как оказалось ... мне нравится такой человек.\nУфуфуфу.
+Sharifa mutters, a contented, exhausted look on her face.=Шарифа бормочет, довольствовая, измученная на лице.
+The walls of her pussy constrict my penis, milking it down to the very last drop.=Стены ее киски сжимают мой пенис, добивая его до самой последней капли.
+Mmmhhh... Haah, haah... Hey, you'll call on me again, won't you...?=Мммххх ... ха -ха, ха -ха ... эй, ты снова позвонишь мне, не так ли ...?
+Y-Yeah... Of course...=Да-да ... конечно ...
+In the end, I still feel like she played me.=В конце концов, я все еще чувствую, что она сыграла меня.
+But I nod, satisfied and happy.=Но я киваю, доволен и счастлив.
+
+
+
+
