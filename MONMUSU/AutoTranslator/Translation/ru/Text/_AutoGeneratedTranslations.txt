@@ -5,7 +5,7 @@
 ...Robina, I have a favor to ask you. May I?=... Робина, я хочу попросить тебя об одолжении. Можно?
 ...Robina, you're nice.=... Робина, ты такая милая.
 ...What?!=...Ч-что?!
-0 /sec=0/сек
+0 /sec=0/с
 0,68 /sec=0,68/с
 0h 00m 38s=0ч 00мин 38сек
 0h 01m 48s=0ч 01мин 48сек
@@ -98,55 +98,55 @@
 0h 59m 59s=0ч 59мин 59сек
 1 sec.=1 сек.
 1,00 Billion=1,00 млрд
-1,01 Million=1,01 миллион
+1,01 Million=1,01 млн
 1,02 Billion=1,02 млрд
-1,02 Million=1,02 миллиона
-1,03 Million=1,03 миллиона
-1,04 Million=1,04 миллиона
-1,06 Million=106 миллионов
-1,07 Million=1 07 миллионов
-1,08 Million=108 миллионов
+1,02 Million=1,02 млн
+1,03 Million=1,03 млн
+1,04 Million=1,04 млн
+1,06 Million=106 млн
+1,07 Million=1 07 млн
+1,08 Million=108 млн
 1,09 Million=1,09 млн
-1,10 Million=1,10 миллиона
+1,10 Million=1,10 млн
 1,12 Million=1,12 млн
-1,13 Billion=1,13 миллиарда
-1,15 Million=115 миллионов
+1,13 Billion=1,13 млрд
+1,15 Million=115 млн
 1,17 Million=1,17 млн
 1,21 Million=1,21 млн
 1,22 Million=1,22 млн
-1,23 Million=1,23 миллиона
+1,23 Million=1,23 млн
 1,30 Million=1,30 млн
 1,32 Million=1,32 млн
-1,36 Million=1,36 миллиона
+1,36 Million=1,36 млн
 1,41 Million=1,41 млн
 1,43 Million=1,43 млн
-1,45 Million=1,45 миллионов
-1,46 Million=1,46 миллионов
-1,53 Million/sec=1,53 миллиона/сек
-1,54 Million=1,54 миллиона
-1,56 Million=1,56 миллионов
-1,59 Million=1,59 миллионов
-1,65 Million=1,65 миллионов
+1,45 Million=1,45 млн
+1,46 Million=1,46 млн
+1,53 Million/sec=1,53 млн/с
+1,54 Million=1,54 млн
+1,56 Million=1,56 млн
+1,59 Million=1,59 млн
+1,65 Million=1,65 млн
 1,68 Million=1,68 млн
-1,69 Million=1,69 миллионов
-1,71 Million=1,71 миллион
-1,73 Million/sec=1,73 миллиона/сек
-1,75 Million=1,75 миллионов
-1,80 Million=1,80 миллионов
+1,69 Million=1,69 млн
+1,71 Million=1,71 млн
+1,73 Million/sec=1,73 млн/с
+1,75 Million=1,75 млн
+1,80 Million=1,80 млн
 1,81 Million=1,81 млн
-1,83 Million=1,83 миллиона
-1,86 Million=1,86 миллионов
-1,89 Million=1,89 миллионов
-1,98 Million=1,98 миллионов
+1,83 Million=1,83 млн
+1,86 Million=1,86 млн
+1,89 Million=1,89 млн
+1,98 Million=1,98 млн
 10 sec.=10 сек.
 10,14 /sec=10,14/с
 10,51 /sec=10,51/с
-10,51 Million/sec=10,51 миллион/с
-10,76 Million/sec=10,76 миллионов/с
+10,51 Million/sec=10,51 млн/с
+10,76 Million/sec=10,76 млн/с
 100 sec.=100 сек.
 100,00 Million=100,00 млн
 101 sec.=101 сек.
-101,49 Million=101,49 миллиона
+101,49 Million=101,49 млн
 101,76 Million=101,76 млн
 102 sec.=102 сек.
 102,81 Million=102,81 млн
@@ -158,7 +158,7 @@
 107 sec.=107 сек.
 108 sec.=108 сек.
 109 sec.=109 сек.
-109,87 Million=109,87 миллионов
+109,87 Million=109,87 млн
 10h 00m 00s=10h 00m 00s
 10h 00m 11s=10H 00м 11 с
 10h 00m 12s=10H 00м 12 с
@@ -169,11 +169,11 @@
 10h 01m 05s=10H 01M 05S
 10h 35m 14s=10ч 35мин 14сек
 11 sec.=11 сек.
-11,63 Million=11,63 миллиона
-11,92 Million=11,92 миллиона
+11,63 Million=11,63 млн
+11,92 Million=11,92 млн
 110 /sec=110/с
 110 sec.=110 сек.
-110,29 Million/sec=110,29 миллионов/с
+110,29 Million/sec=110,29 млн/с
 110 371 /sec=110 371 /с
 111 /sec=111/с
 111 sec.=111 сек.
@@ -181,13 +181,13 @@
 112 sec.=112 сек.
 113 sec.=113 сек.
 114 sec.=114 сек.
-114,39 Million=114,39 миллиона
+114,39 Million=114,39 млн
 115 sec.=115 сек.
 116 sec.=116 сек.
 117 sec.=117 сек.
 118 /sec=118/с
 118 sec.=118 сек.
-118,18 Million=118,18 миллиона
+118,18 Million=118,18 млн
 119 sec.=119 сек.
 11h 47m 35s=11ч 47мин 35сек
 11h 47m 39s=11ч 47мин 39сек
@@ -204,18 +204,18 @@
 11h 59m 54s=11ч 59мин 54сек
 11 812 /sec=11 812 /с
 12 sec.=12 сек.
-12,06 Million=12,06 миллионов
-12,21 Million/sec=12,21 миллион/с
-12,23 Million=12,23 миллиона
+12,06 Million=12,06 млн
+12,21 Million/sec=12,21 млн/с
+12,23 Million=12,23 млн
 12,57 Million=12,57 млн
 12,75 /sec=12,75/с
-12,82 Million=12,82 миллиона
-12,86 Million=12,86 миллионов
-12,90 Million=12,90 миллионов
+12,82 Million=12,82 млн
+12,86 Million=12,86 млн
+12,90 Million=12,90 млн
 12,95 Million=12,95 млн
 120 sec.=120 сек.
 121 sec.=121 сек.
-121,72 Million=121,72 миллиона
+121,72 Million=121,72 млн
 122 /sec=122/с
 122 sec.=122 сек.
 123 sec.=123 сек.
@@ -223,10 +223,10 @@
 125 sec.=125 сек.
 126 sec.=126 сек.
 127 sec.=127 сек.
-127,26 Million=127,26 миллиона
+127,26 Million=127,26 млн
 128 /sec=128 /с
 128 sec.=128 сек.
-128,06 Million=128,06 миллионов
+128,06 Million=128,06 млн
 129 sec.=129 сек.
 129 122 /sec=129 122 /с
 12h 00m 00s=12ч 00мин 00сек
@@ -236,8 +236,8 @@
 13 sec.=13 сек.
 13,00 /sec=13,00/с
 13,13 /sec=13,13/с
-13,33 Million=13,33 миллиона
-13,94 Million=13,94 миллиона
+13,33 Million=13,33 млн
+13,94 Million=13,94 млн
 130 sec.=130 сек.
 131 /sec=131/с
 131 sec.=131 сек.
@@ -246,7 +246,7 @@
 133 sec.=133 сек.
 134 sec.=134 сек.
 135 sec.=135 сек.
-135,29 Million=135,29 миллиона
+135,29 Million=135,29 млн
 136 sec.=136 сек.
 137 sec.=137 сек.
 138 sec.=138 сек.
@@ -254,71 +254,71 @@
 13 732 /sec=13 732 /с
 13 781 /sec=13 781 /с
 14 sec.=14 сек.
-14,18 Million=14,18 миллионов
-14,66 Million=14 66 миллионов
+14,18 Million=14,18 млн
+14,66 Million=14 66 млн
 14,74 /sec=14,74/с
-14,83 Million=14,83 миллиона
+14,83 Million=14,83 млн
 140 /sec=140/с
 140 sec.=140 сек.
 141 sec.=141 сек.
 142 sec.=142 сек.
 143 sec.=143 сек.
 144 sec.=144 сек.
-144,70 Million=144,70 миллионов
-144,93 Million=144,93 миллиона
+144,70 Million=144,70 млн
+144,93 Million=144,93 млн
 145 sec.=145 сек.
-145,74 Million=145,74 миллиона
+145,74 Million=145,74 млн
 146 sec.=146 сек.
 147 sec.=147 сек.
 148 sec.=148 сек.
 149 sec.=149 сек.
 15 sec.=15 сек.
 15,00 Billion=15,00 млрд
-15,77 Million/sec=15 77 миллионов/с
-15,77 Million=15 77 миллионов
+15,77 Million/sec=15 77 млн/с
+15,77 Million=15 77 млн
 150 sec.=150 сек.
 151 sec.=151 сек.
-151,19 Million=151,19 миллиона
-151,75 Million=151,75 миллиона
+151,19 Million=151,19 млн
+151,75 Million=151,75 млн
 152 sec.=152 сек.
-152,23 Million=152,23 миллиона
+152,23 Million=152,23 млн
 152,64 Million=152,64 млн
 153 sec.=153 сек.
 154 sec.=154 сек.
-154,08 Million=154,08 миллиона
+154,08 Million=154,08 млн
 155 sec.=155 сек.
-155,75 Million=155,75 миллиона
+155,75 Million=155,75 млн
 156 sec.=156 сек.
 157 sec.=157 сек.
 158 sec.=158 сек.
 159 sec.=159 сек.
 16 sec.=16 сек.
-16,27 Million=16,27 миллиона
+16,27 Million=16,27 млн
 160 sec.=160 сек.
-160,73 Million=160,73 миллиона
+160,73 Million=160,73 млн
 160 866 /sec=160 866 /с
 161 /sec=161 /с
 161 sec.=161 сек.
-161,27 Million=161,27 миллиона
+161,27 Million=161,27 млн
 162 sec.=162 сек.
 163 sec.=163 сек.
 164 /sec=164/с
 164 sec.=164 сек.
-164,80 Million=164,80 миллионов
+164,80 Million=164,80 млн
 165 sec.=165 сек.
-165,43 Million/sec=165,43 миллиона/сек
+165,43 Million/sec=165,43 млн/с
 166 /sec=166/с
 166 sec.=166 сек.
 167 sec.=167 сек.
 168 sec.=168 сек.
 169 sec.=169 сек.
 17 sec.=17 сек.
-17,44 Million=17,44 миллиона
+17,44 Million=17,44 млн
 17,69 /sec=17,69/с
 170 sec.=170 сек.
 171 /sec=171 /с
 171 sec.=171 сек.
-171,59 Million=171,59 миллиона
+171,59 Million=171,59 млн
 172 sec.=172 сек.
 173 sec.=173 сек.
 174 sec.=174 сек.
@@ -331,19 +331,19 @@
 179 sec.=179 сек.
 17 718 /sec=17 718 /с
 18 sec.=18 сек.
-18,09 Million=18,09 миллионов
-18,31 Million/sec=18,31 миллион/сек
-18,35 Million=18 35 миллионов
+18,09 Million=18,09 млн
+18,31 Million/sec=18,31 млн/с
+18,35 Million=18 35 млн
 180 sec.=180 сек.
-182,59 Million=182,59 миллионов
+182,59 Million=182,59 млн
 18 230 /sec=18 230 /с
 18 836 /sec=18 836 /с
 19 sec.=19 сек.
 19,43 Million=19,43 млн
 19,50 /sec=19,50/с
 19,70 /sec=19,70/с
-190,89 Million=190,89 миллионов
-192,09 Million=192,09 миллионов
+190,89 Million=190,89 млн
+192,09 Million=192,09 млн
 196 /sec=196/с
 1d 00h 00m=1д 00ч 00мин
 1d 01h 54m=1d 01h 54M
@@ -435,21 +435,21 @@
 2,19 /sec=2,19/с
 2,23 Million=2,23 млн
 2,27 Billion=2,27 млрд
-2,29 Million/sec=2,29 миллионов/с
-2,31 Million=2,31 миллион
+2,29 Million/sec=2,29 млн/с
+2,31 Million=2,31 млн
 2,35 Million=2,35 млн
 2,36 /sec=2,36/с
-2,39 Million=2,39 миллиона
-2,54 Million=2,54 миллиона
-2,60 Million/sec=2,60 миллионов/с
+2,39 Million=2,39 млн
+2,54 Million=2,54 млн
+2,60 Million/sec=2,60 млн/с
 2,72 /sec=2,72/с
 2,76 Million=276 млн
-2,79 Million=279 миллионов
+2,79 Million=279 млн
 2,87 Million=2,87 млн
-2,97 Million=2,97 миллионов
+2,97 Million=2,97 млн
 20 sec.=20 сек.
-20,00 Million=20,00 миллионов
-202,93 Million=202,93 миллиона
+20,00 Million=20,00 млн
+202,93 Million=202,93 млн
 206 /sec=206/с
 20h 29m 44s=20h 29m 44s
 20h 31m 44s=20h 31m 44s
@@ -464,7 +464,7 @@
 20 672 /sec=20 672 /с
 21 sec.=21 сек.
 21,01 Million=21,01 млн
-21,26 Million=21,26 миллиона
+21,26 Million=21,26 млн
 21,63 /sec=21,63/с
 21,81 /sec=21,81/с
 21,87 Million=21,87 млн
@@ -477,7 +477,7 @@
 21h 59m 17s=21h 59m 17s
 22 sec.=22 сек.
 22,11 /sec=22,11/с
-22,25 Million=22,25 миллиона
+22,25 Million=22,25 млн
 22,41 /sec=22,41/с
 22,95 /sec=22,95/с
 223,39 Million=223,39 млн
@@ -490,8 +490,8 @@
 22 781 /sec=22 781 /с
 23 sec.=23 сек.
 23,62 Million=23,62 млн
-23,65 Million/sec=23,65 миллионов/сек
-231,11 Million=231,11 миллиона
+23,65 Million/sec=23,65 млн/с
+231,11 Million=231,11 млн
 232 /sec=232/с
 23h 59m 07s=23ч 59мин 07сек
 23h 59m 43s=23ч 59мин 43сек
@@ -501,7 +501,7 @@
 24 sec.=24 сек.
 24,59 Million=24 59 млн
 241 /sec=241 /с
-241,91 Million=241,91 миллион
+241,91 Million=241,91 млн
 241 299 /sec=241 299 /с
 245 /sec=245/с
 246 /sec=246/с
@@ -510,7 +510,7 @@
 25,43 Million=25,43 млн
 256 /sec=256/с
 257 /sec=257 /с
-259,67 Million=259,67 миллионов
+259,67 Million=259,67 млн
 25 313 /sec=25 313 ​​/с
 26 sec.=26 сек.
 26,27 /sec=26,27/с
@@ -522,7 +522,7 @@
 27 sec.=27 сек.
 27,54 /sec=27,54/с
 27,66 /sec=27,66/с
-276,05 Million=276,05 миллионов
+276,05 Million=276,05 млн
 28 sec.=28 сек.
 28,12 /sec=28,12 /с
 28,43 Million=28,43 млн
@@ -569,7 +569,7 @@
 3,55 Billion=3,55 млрд
 3,62 Million=3,62 млн
 3,66 Million=366 млн
-3,89 Million/sec=3,89 миллионов/с
+3,89 Million/sec=3,89 млн/с
 3,96 Billion=3,96 млрд
 30 sec.=30 сек.
 30,45 Million=30,45 млн
@@ -581,7 +581,7 @@
 31 008 /sec=31 008 /с
 32 sec.=32 сек.
 32,45 /sec=32,45/с
-32,54 Million=32,54 миллиона
+32,54 Million=32,54 млн
 320 /sec=320/с
 321,81 Million=321,81 млн
 325 087 /sec=325 087 /с
@@ -612,7 +612,7 @@
 38,15 Million=38,15 млн
 384 /sec=384/с
 385 /sec=385 /с
-389,50 Million=389,50 миллионов
+389,50 Million=389,50 млн
 39 sec.=39 сек.
 39,24 Million=39,24 млн
 39,39 Million=39,39 млн
@@ -664,14 +664,14 @@
 41 sec.=41 сек.
 41,62 Million=41,62 млн
 412,71 Million=412,71 млн
-413,47 Million=413,47 миллиона
+413,47 Million=413,47 млн
 419 /sec=419/с
 42 sec.=42 сек.
 42,18 /sec=42,18 /с
 43 sec.=43 сек.
 43,87 Million=43,87 млн
 431 /sec=431/с
-439,56 Million=439 56 миллионов
+439,56 Million=439 56 млн
 44 sec.=44 сек.
 444,14 Million=444,14 млн
 45 sec.=45 сек.
@@ -767,16 +767,16 @@
 5 702 /sec=5 702 /с
 6 sec.=6 сек.
 6,00 Million=6,00 млн
-6,12 /sec=6,12 /сек
+6,12 /sec=6,12 /с
 6,17 Billion=6,17 млрд
-6,24 Billion=6,24 миллиарда
+6,24 Billion=6,24 млрд
 6,25 Billion=6,25 млрд
 6,71 Billion=6,71 млрд
 6,82 /sec=6,82 /с
 60 sec.=60 сек.
 60,86 /sec=60,86 /с
 609 /sec=609 /с
-609,47 Million=609,47 миллионов
+609,47 Million=609,47 млн
 61 sec.=61 сек.
 62 sec.=62 сек.
 62,01 /sec=62,01 /с
@@ -784,18 +784,18 @@
 628 /sec=628 /с
 63 sec.=63 сек.
 637 /sec=637 /с
-637,60 Million=637,60 миллионов
+637,60 Million=637,60 млн
 639 /sec=639 /с
 64 sec.=64 сек.
 64,05 /sec=64,05 /с
 646 /sec=646 /с
-647,92 Million=647,92 миллиона
+647,92 Million=647,92 млн
 65 sec.=65 сек.
-659,33 Million=659,33 миллиона
+659,33 Million=659,33 млн
 66 sec.=66 сек.
 67 sec.=67 сек.
 677 /sec=677 /с
-677,82 Million=677,82 миллиона
+677,82 Million=677,82 млн
 68 sec.=68 сек.
 68,48 /sec=68,48 /с
 68,85 /sec=68,85 /с
@@ -814,7 +814,7 @@
 6h 52m 13s=6H 52M 13S
 6h 52m 57s=6H 52M 57S
 7 sec.=7 сек.
-7,18 Million/sec=7,18 миллионов/с
+7,18 Million/sec=7,18 млн/с
 7,95 Million=7,95 млн
 70 sec.=70 сек.
 70,24 /sec=70,24 /с
@@ -822,7 +822,7 @@
 72 sec.=72 сек.
 721 /sec=721 /с
 73 sec.=73 сек.
-73,52 Million/sec=73,52 миллиона/с
+73,52 Million/sec=73,52 млн/с
 73 581 /sec=73 581 /с
 74 sec.=74 сек.
 74,89 Million=74,89 млн
@@ -839,7 +839,7 @@
 7h 52m 03s=7H 52M 03S
 7h 52m 26s=7H 52M 26S
 8 sec.=8 сек.
-8,14 Million/sec=8,14 миллиона/с
+8,14 Million/sec=8,14 млн/с
 8,16 /sec=8,16 /с
 8,27 Million=8 27 млн
 8,36 Million=8,36 млн
@@ -886,7 +886,7 @@
 91 sec.=91 сек.
 91,29 /sec=91,29 /с
 914 /sec=914 /с
-914,20 Million=914,20 миллионов
+914,20 Million=914,20 млн
 92 sec.=92 сек.
 93 sec.=93 сек.
 93,02 /sec=93,02 /с
@@ -895,13 +895,13 @@
 942 /sec=942 /с
 95 sec.=95 сек.
 956 /sec=956 /с
-956,40 Million=956,40 миллионов
+956,40 Million=956,40 млн
 959 /sec=959 /с
 96 sec.=96 сек.
 96,47 Million=96,47 млн
 961 /sec=961 /с
 97 sec.=97 сек.
-971,87 Million=971,87 миллиона
+971,87 Million=971,87 млн
 98 sec.=98 сек.
 98,74 Million=98,74 млн
 99 sec.=99 сек.
@@ -944,7 +944,7 @@
 <color\=yellow>Wizard</color> acquired skill <color\=yellow>Magic Power Production Speed+</color>!=<color\=yellow>Волшебник</color> изучил навык <color\=yellow>Скорость производства магии+</color>!
 <color\=yellow>Wizard</color> acquired skill <color\=yellow>Skillful Negotiator</color>!=<color\=yellow>Волшебник</color> изучил навык <color\=yellow>Искусный переговорщик</color>!  
 <sprite\="emoji" name\="gold"> 1,00 Trillion=<sprite\="emoji" name\="gold"> 1,00 триллиона
-<sprite\="emoji" name\="gold"> 1,60 Million=<sprite\="emoji" name\="gold"> 1,60 миллионов
+<sprite\="emoji" name\="gold"> 1,60 Million=<sprite\="emoji" name\="gold"> 1,60 млн
 <sprite\="emoji" name\="gold"> 10,00 Billion=<sprite\="emoji" name\="gold"> 10,00 млрд
 <sprite\="emoji" name\="gold"> 2,50 Trillion=<sprite\="emoji" name\="gold"> 2,50 триллиона
 <sprite\="emoji" name\="gold"> 20,00 Billion=<sprite\="emoji" name\="gold"> 20,00 млрд
@@ -983,11 +983,11 @@
 <sprite\="emoji" name\="soul">450,38 Million=<sprite\="emoji" name\="soul">450,38 млн
 <sprite\="emoji" name\="soul">452,09 Million=<sprite\="emoji" name\="soul">452,09 млн
 <sprite\="emoji" name\="soul">5,49 Billion=<sprite\="emoji" name\="soul">5,49 млрд
-<sprite\="emoji" name\="soul">647,41 Million=<sprite\="emoji" name\="soul">647,41 миллион
-<sprite\="emoji" name\="soul">697,51 Million=<sprite\="emoji" name\="soul">697,51 миллион
+<sprite\="emoji" name\="soul">647,41 Million=<sprite\="emoji" name\="soul">647,41 млн
+<sprite\="emoji" name\="soul">697,51 Million=<sprite\="emoji" name\="soul">697,51 млн
 <sprite\="emoji" name\="soul">8,46 Billion=<sprite\="emoji" name\="soul">8,46 млрд
 <sprite\="emoji" name\="soul">8,47 Billion=<sprite\="emoji" name\="soul">8,47 млрд
-<sprite\="emoji" name\="soul">8,54 Billion=<sprite\="emoji" name\="soul">8,54 миллиарда
+<sprite\="emoji" name\="soul">8,54 Billion=<sprite\="emoji" name\="soul">8,54 млрд
 <sprite\="emoji" name\="soul">90,99 Million=<sprite\="emoji" name\="soul">90,99 млн
 > Auto=Авто
 >> Skip =Пропуск
@@ -3999,10 +3999,10 @@ xMAX=xMAX
 <sprite\="emoji" name\="gold"> 800,00 Billion=<sprite\="emoji" name\="gold"> 800,00 млрд
 <sprite\="emoji" name\="gold"> 12,00 Trillion=<sprite\="emoji" name\="gold"> 12,00 трлн
 60,00 Billion=60,00 млрд
-<sprite\="emoji" name\="gold"> 15,00 Million=<sprite\="emoji" name\="gold"> 15,00 миллионов
-2,00 Million=2,00 миллионов
-1,18 Million=118 миллионов
-685,00 Million=685,00 миллионов
+<sprite\="emoji" name\="gold"> 15,00 Million=<sprite\="emoji" name\="gold"> 15,00 млн
+2,00 Million=2,00 млн
+1,18 Million=118 млн
+685,00 Million=685,00 млн
 8,35 Billion=8,35 млрд
 3d 06h 45m=3d 06h 45m
 15h 21m 50s=15h 21m 50S
@@ -4012,44 +4012,44 @@ xMAX=xMAX
 2h 14m 37s=2H 14M 37S
 15h 17m 50s=15h 17m 50s
 2h 14m 36s=2H 14M 36S
-4,11 Million=4,11 миллиона
+4,11 Million=4,11 млн
 8,98 Billion=8,98 млрд
 11h 50m 29s=11h 50m 29 с
-2,71 Million=2,71 миллион
+2,71 Million=2,71 млн
 11h 50m 02s=11h 50m 02s
-17,09 Million=17,09 миллионов
+17,09 Million=17,09 млн
 x 57=x 57
 11,66 Billion=11,66 млрд
-6,17 Million=6,17 миллионов
+6,17 Million=6,17 млн
 13,46 Billion=13,46 млрд
-4,06 Million=406 миллионов
-25,64 Million=25,64 миллиона
+4,06 Million=406 млн
+25,64 Million=25,64 млн
 4,49 Billion=4,49 млрд
-318,80 Million=318,80 миллионов
-8,55 Million=8,55 миллионов
-129,83 Million=129,83 миллиона
-1,35 Million=1,35 миллиона
-2,06 Million=206 миллионов
+318,80 Million=318,80 млн
+8,55 Million=8,55 млн
+129,83 Million=129,83 млн
+1,35 Million=1,35 млн
+2,06 Million=206 млн
 3,89 Billion=3,89 млрд
 11h 48m 19s=11h 48m 19S
 14h 31m 04s=14H 31M 04S
-15,91 Million=15,91 миллион
-2,52 Million=2,52 миллиона
+15,91 Million=15,91 млн
+2,52 Million=2,52 млн
 11h 46m 06s=11H 46M 06S
 14h 28m 27s=14h 28m 27 с
 14h 28m 19s=14h 28m 19S
-17,69 Million=17,69 миллионов
-18,31 Million=18,31 миллион
-278,97 Million=278,97 миллионов
-18,95 Million=18,95 миллионов
+17,69 Million=17,69 млн
+18,31 Million=18,31 млн
+278,97 Million=278,97 млн
+18,95 Million=18,95 млн
 4h 16m 47s=4H 16M 47S
 4h 16m 43s=4H 16M 43S
 4h 00m 52s=4H 00м 52 с
 3h 13m 27s=3H 13M 27S
 <sprite\="emoji" name\="soul">26,63 Billion=<sprite\="emoji" name\="soul">26,63 млрд
-17,64 Million=17,64 миллиона
+17,64 Million=17,64 млн
 <sprite\="emoji" name\="gold">16,57 Trillion=<sprite\="emoji" name\="gold">16,57 трлн
-3,14 Million=3,14 миллиона
+3,14 Million=3,14 млн
 x 95=x 95
 5d 00h 00m=5d 00h 00m
 14d 00h 00m=14d 00h 00m
@@ -4057,13 +4057,120 @@ x 95=x 95
 <sprite\="emoji" name\="gold"> 5,00 Trillion=<sprite\="emoji" name\="gold"> 5,00 трлн
 <sprite\="emoji" name\="gold"> 10,00 Trillion=<sprite\="emoji" name\="gold"> 10,00 трлн
 <sprite\="emoji" name\="gold"> 50,00 Trillion=<sprite\="emoji" name\="gold"> 50,00 трлн
-26,46 Million=26,46 миллионов
-4,71 Million=4,71 миллион
-1,57 Million=1,57 миллионов
-8,82 Million=8,82 миллиона
+26,46 Million=26,46 млн
+4,71 Million=4,71 млн
+1,57 Million=1,57 млн
+8,82 Million=8,82 млн
 13d 23h 59m=13d 23h 59m
-2,92 Million=2,92 миллиона
+2,92 Million=2,92 млн
 13d 23h 57m=13d 23H 57м
+4d 23h 59m=4d 23h 59m
+586,55 Million=586,55 млн
+692,32 Million=692,32 млн
+15,09 Billion=15,09 млрд
+1,05 Billion=1,05 млрд
+13d 22h 52m=13d 22h 52m
+4,38 Million=4,38 млн
+13d 22h 50m=13d 22h 50m
+10,72 Billion=10,72 млрд
+9,29 Billion=9,29 млрд
+1,27 Million=1,27 млн
+3,67 Million=367 млн
+4,47 Million=4,47 млн
+412,44 Million=412,44 млн
+26,68 Million=26,68 млн
+36,59 Million=36 59 млн
+30,81 Billion=30,81 млрд
+7,48 Million=7,48 млн
+21,45 Billion=21,45 млрд
+1,42 Billion=1,42 млрд
+61,20 Million=61,20 млн
+788,39 Million=788,39 млн
+3,38 Million=3 38 млн
+3d 06h 56m=3d 06h 56m
+3d 06h 55m=3d 06h 55m
+5h 59m 58s=5H 59 м 58 с
+6h 55m 56s=6H 55M 56S
+x60 Hire=x60 Нанять
+5h 59m 55s=5H 59M 55S
+2d 20h 28m=2d 20h 28м
+15,82 Billion=15,82 млрд
+6,09 Million=6,09 млн
+9,14 Million=9,14 млн
+5,50 Million=5,50 млн
+879,83 Million=879,83 млн
+54,89 Million=54,89 млн
+1,58 Billion=158 млрд
+23,74 Billion=23,74 млрд
+1,91 Million=1,91 млн
+22,64 Billion=22,64 млрд
+7,55 Billion=7,55 млрд
+3,05 Million=3,05 млн
+7,91 Billion=7,91 млрд
+527,46 Million=527,46 млн
+18,30 Million=18,30 млн
+293,28 Million=293,28 млн
+23,30 Billion=23,30 млрд
+8,12 Million=8,12 млн
+x 300=x 300
+49,56 Million=49 56 млн
+614,48 Million=614,48 млн
+66,46 Million=66,46 млн
+1,54 Billion=1,54 млрд
+33,45 Billion=33,45 млрд
+856,06 Million=856,06 млн
+11,22 Million=11,22 млн
+32,18 Billion=32,18 млрд
+2,13 Billion=2,13 млрд
+91,80 Million=91,80 млн
+1,18 Billion=118 млрд
+5,07 Million=5,07 млн
+1,76 Million=1,76 млн
+46,21 Billion=46,21 млрд
+48,93 Billion=48,93 млрд
+2,19 Billion=2,19 млрд
+1,17 Billion=1,17 млрд
+36,13 Billion=36,13 млрд
+10,96 Million=10,96 млн
+42,60 Billion=42,60 млрд
+12,18 Million=12,18 млн
+3,06 Billion=306 млрд
+1,72 Million=1,72 млн
+73,40 Billion=73,40 млрд
+18,27 Million=18 27 млн
+63,89 Billion=63,89 млрд
+4,59 Billion=459 млрд
+99,68 Million=99,68 млн
+1,76 Billion=1,76 млрд
+24,47 Billion=24,47 млрд
+21,30 Billion=21,30 млрд
+1,53 Billion=1,53 млрд
+33,23 Million=33,23 млн
+586,99 Million=586,99 млн
+45,06 Billion=45,06 млрд
+39,23 Billion=39,23 млрд
+2,82 Billion=2,82 млрд
+1,08 Billion=108 миллиардов
+1,59 Billion=1,59 млрд
+<sprite\="emoji" name\="soul">79,70 Billion=<sprite\="emoji" name\="soul">79,70 млрд
+1,46 Billion=1,46 млрд
+<sprite\="emoji" name\="gold">133,50 Trillion=<sprite\="emoji" name\="gold">133,50 триллиона
+<sprite\="emoji" name\="gold"> 100 Million=<sprite\="emoji" name\="gold"> 100 миллионов
+Coming Soon...=Вскоре...
+58,84 Billion=58,84 млрд
+4,22 Billion=4,22 миллиарда
+2,20 Billion=2,20 млрд
+16,83 Million=16,83 миллиона
+67,60 Billion=67,60 млрд
+1,58 Million=1,58 миллиона
+22,53 Billion=22,53 миллиарда
+5,61 Million=5,61 миллион
+19,61 Billion=19,61 млрд
+1,41 Billion=1,41 млрд
+30,60 Million=30,60 миллионов
+732,19 Million=732,19 миллиона
+
+
 
 
 
@@ -4364,6 +4471,180 @@ Mmmhhh... Haah, haah... Hey, you'll call on me again, won't you...?=Мммххх
 Y-Yeah... Of course...=Да-да ... конечно ...
 In the end, I still feel like she played me.=В конце концов, я все еще чувствую, что она сыграла меня.
 But I nod, satisfied and happy.=Но я киваю, доволен и счастлив.
+
+You received <color\=yellow>1 Cat Teaser(s)</color> from Sharifa!=Вы получили <color\=yellow>1 Кошачий тизер</color> от Шарифы!
+Octillion=Октиллион
+<color\=yellow>Archer</color> acquired skill <color\=yellow>Super Excited</color>!=<color\=yellow>Лучник</color> изучил навык <color\=yellow>Супер взволнован</color>!
+<color\=yellow>Super Excited</color>\r\n\r\n[Effect]  Decrease boost cooldown time by <color\=#80FF80>5 seconds</color>. \r\n[Prerequisites]  Hired <color\=#80FF80>80 units</color>.=<color\=yellow>Супер взволнован</color>\r\n\r\n[Эффект] уменьшить время перезарядки <color\=#80FF80>5 секунд</color>Полем\n[Предварительные условия] Наем <color\=#80FF80>80 юнитов</color>.
+<color\=yellow>Peasant</color> acquired skill <color\=yellow>Party Time</color>!=<color\=yellow>Крестьянин</color> изучил навык <color\=yellow>Время вечеринки</color>!
+<color\=yellow>Icebreaker</color>\r\n\r\n[Effect]  Increase magic power production rate of adjacent units by <color\=#80FF80>10%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>130 units</color>.=<color\=yellow>Высвобождение</color>\r\n\r\n[Эффект] увеличивает скорость производства магии соседних юнитов <color\=#80FF80>10%</color>.\r\n[Условия] Нанято <color\=#80FF80>130 единиц</color>.
+<color\=yellow>Gold Production Rate+</color>\r\n\r\n[Effect]  Increase gold production rate by <color\=#80FF80>50%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>180 units</color>.=<color\=yellow>Скорость добычи золота+</color>\r\n\r\n[Эффект] Увеличивает скорость добычи золота на <color\=#80FF80>50%</color>.\r\n[Условия] Нанято <color\=#80FF80>180 единиц</color>.
+<color\=yellow>Party Time</color>\r\n\r\n[Effect]  Increase boost session by <color\=#80FF80>3 seconds</color>. \r\n[Prerequisites]  Hired <color\=#80FF80>200 units</color>.=<color\=yellow>Время вечеринки</color>\r\n\r\n[Эффект] увеличить сеанс повышения <color\=#80FF80>3 секунды</color>Полем\n[Предварительные условия] Наем <color\=#80FF80>200 юнитов</color>.
+<color\=yellow>Skillful Negotiator</color>\r\n\r\n[Effect]  Decrease cost of one unit by <color\=#80FF80>50%</color> permanently.\r\n[Prerequisites]  Hired <color\=#80FF80>30 units</color>.=<color\=yellow>Искусный переговорщик</color>\r\n\r\n[Эффект] Снижает стоимость найма юнита на <color\=#80FF80>50%</color>.\r\n[Условия] Нанято <color\=#80FF80>30 единиц</color>.
+<color\=yellow>Gold Production Rate+</color>\r\n\r\n[Effect]  Increase gold production rate by <color\=#80FF80>50%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>300 units</color>.=<color\=yellow>Скорость добычи золота+</color>\r\n\r\n[Эффект] Увеличивает скорость добычи золота на <color\=#80FF80>50%</color>.\r\n[Условия] Нанято <color\=#80FF80>300 единиц</color>.
+<color\=yellow>Skillful Negotiator</color>\r\n\r\n[Effect]  Decrease cost of one unit by <color\=#80FF80>50%</color> permanently.\r\n[Prerequisites]  Hired <color\=#80FF80>280 units</color>.=<color\=yellow>Искусный переговорщик</color>\r\n\r\n[Эффект] Снижает стоимость найма юнита на <color\=#80FF80>50%</color>.\r\n[Условия] Нанято <color\=#80FF80>280 единиц</color>.
+<color\=yellow>Super Excited</color>\r\n\r\n[Effect]  Decrease boost cooldown time by <color\=#80FF80>5 seconds</color>. \r\n[Prerequisites]  Hired <color\=#80FF80>250 units</color>.=<color\=yellow>Супер взволнован</color>\r\n\r\n[Эффект] уменьшить время перезарядки <color\=#80FF80>5 секунд</color>Полем\n[Предварительные условия] Наем <color\=#80FF80>250 единиц</color>.
+<color\=yellow>Magic Power Production Rate+</color>\r\n\r\n[Effect]  Increase magic power production rate by <color\=#80FF80>50%</color>.\r\n[Prerequisites]  Hired <color\=#80FF80>230 units</color>.=<color\=yellow>Скорость производства магии+</color>\r\n\r\n[Эффект] увеличивает скорость производства магии на <color\=#80FF80>50%</color>.\r\n[Условия] Нанято <color\=#80FF80>230 единиц</color>.
+
+
+
+
+
+
+Saki=Саки
+My name is Saki, and I am a fox with nine tails. Sweet dear, won't thou come and take me into thine arms forevermore?=Меня зовут Саки, и я лиса с девятью хвостами.\nСладкая дорогая, не придешь ли ты навсегда в твоих руках?
+Saki’s special episode\r\nhas been unlocked!=Специальный эпизод Саки был разблокирован!
+Race : FoxSpirit=Раса: Foxspirit
+Saki\nis your new favorite.=Саки - твой новый фаворит.
+Wah?! Wait... Saki, what are you doing all of a sudden?!=Вау?!\nПодожди ... Саки, что ты делаешь внезапно?!
+Before I know it, she's pushed me down and climbed on top of me.=Прежде чем я узнаю это, она толкнула меня вниз и поднялась на меня.
+Saki's nine tails press up against my face.=Девять хвостов Саки прижимаются к моему лицу.
+Come, come, my dear. How doth my tails feel against thy skin?=Приходи, приходи, моя дорогая.\nНасколько мои хвосты чувствуют себя против твоей кожи?
+Tails...?=Хвосты ...?
+Indeed... After all, beloved, thou hast quite the interest in monster girls such as myself, dost thou not?=Действительно ... в конце концов, любимый, ты вполне интересуй к такими монстрами девушек, как я, не так ли?
+Naturally, I hath decided that thou shouldst see how skilled a foxspirit such as I am can be with her most charming points.=Естественно, я решил, что ты должен увидеть, насколько умел лисичный пайс, такой, как я, могу быть с ее самыми очаровательными моментами.
+Is that what's going on...?=Это то, что происходит ...?
+She caught me off guard, but if that's what she's after, who am I to stop her?=Она застала меня врасплох, но если это то, что она ище, кто я такой, чтобы остановить ее?
+In fact, this is pretty much what I was after from the beginning.=На самом деле, это в значительной степени то, что я был после начала.
+So, Saki... I guess these tails are a foxspirit's 'most charming points,' then?=Итак, Саки ... Я думаю, что эти хвосты - «самые очаровательные моменты» Foxspirit, тогда?
+Yes. Here... Do they not feel exquisite?=Да.\nЗдесь ... они не чувствуют себя изысканными?
+She waves her butt left and right so that her tails sway to and fro.=Она машет своей задницей влево и вправо, чтобы ее хвосты качались до сюда.
+At first, they just brush against my face.=Сначала они просто помахивают мое лицо.
+But soon, they're bearing down on me, burying my face in soft fur.=Но вскоре они опускаются на меня, заканчивая моим лицом в мягком мехе.
+They're... Yeah, they feel great. And they smell nice, too...=Они ... да, они чувствуют себя прекрасно.\nИ они тоже приятно пахнут ...
+Kufufu, thou dost enjoy having thy face buried, dost thou not?=Куфуфу, тебе нравится, что твое лицо похоронено, не так ли?
+Verily, for I take care to maintain them nightly. They are my pride and joy.=Воистину, потому что я забочусь о том, чтобы сохранить их ночью.\nОни моя гордость и радость.
+They're certainly something to be proud of.=Они, безусловно, чем -то, чем можно гордиться.
+Her coat of fur is like nothing I've ever felt before.=Ее пальто меха похож на то, что я когда -либо чувствовал раньше.
+I expect nothing less from a monster girl's tails...!=Я не ожидаю ничего меньшего от хвостов девушки -монстра ...!
+It seems, my darling, that thou quite enjoy them.=Кажется, моя дорогая, что ты очень наслаждаешься ими.
+Kufufu, my heart rejoices to hear thee say that, my beloved.=Куфуфу, мое сердце радуется услышать, как ты говорил, что любимый.
+I am happier still, not just because thou summoned me, but because I am thine.=Я все еще счастливее, не только потому, что ты вызвал меня, но и потому, что я Твой.
+Saki's tails shake triumphantly, as if to prove the truth of her sentiment.=Хвосты Саки триумфально дрожат, как будто, чтобы доказать правду о ее чувствах.
+In that case, do those tails of yours have any more surprises in store for me?=В этом случае у этих ваших хвостов есть больше сюрпризов для меня?
+Kufufu, it seems that thou hast become the prisoner to my tails, my darling.=Куфуфу, кажется, что ты станешь пленником для моих хвостов, моя дорогая.
+If thou art so afflicted, then perhaps I should grant you a service. Have at thee!=Если вы так поражены, то, возможно, я должен предоставить вам услугу.\nУ тебя есть!
+As Saki looks back at me, her tails begin to writhe against me happily.=Когда Саки оглядывается на меня, ее хвосты начинают счастливо корчать против меня.
+Before I know it, her soft, furry tails have become a caressing storm.=Прежде чем я узнаю это, ее мягкие, пушистые хвосты стали ласкательным штормом.
+Whoa... Umph, ngah...?!=Ого ... умф, нга ...?!
+Mm... My sweetling, do not blow thy breath onto my tails so.=ММ ... мой сладкий, не взорвите свой дыхание на мои хвосты, так что.
+If thou shouldst, I... Mm, I would succumb to my baser instincts...=Если ты должен, я ... ММ, я бы поддался своим бейсфонам ...
+Hey, there's not really much I can... Mgph!=Эй, я не могу много, я могу ... МГПИ!
+Her tails brush the tip of my nose, tickling it.=Ее хвосты отбрасывают кончик моего носа, щекоча его.
+As I become cradled in her tails, they rock me back and forth as if I'm a baby they're trying to soothe.=Когда я становлюсь в ее хвостах, они качают меня взад -вперед, как будто я ребенок, которого они пытаются успокоить.
+I even feel her tails tickling my ears.=Я даже чувствую, как ее хвосты щекочали мои уши.
+Kufufu, my dear, thou art so very charming.=Куфуфу, моя дорогая, ты такой очень очаровательный.
+As I tease thee with my tails, I can even feel thy breath growing wild.=Когда я дразню тебя своими хвостами, я даже чувствую, как твое дыхание становится диким.
+I-I can't help it. I guess in some way I want it.=Я-я не могу с этим поделать.\nЯ думаю, каким -то образом я хочу этого.
+Being able to play with a monster girl like this is one of my dreams.=Способность играть с девушкой -монстром, как это, - это одна из моей мечты.
+How could I NOT be excited by something like this?=Как я мог не быть взволнованным чем -то подобным?
+Besides, Saki is actually on top of me, and even though her body is small, she's so close to me that I can feel just how lively she is.=Кроме того, Саки на самом деле на меня на вершине, и хотя ее тело маленькое, она так близко мне, что я могу чувствовать, насколько она живая.
+She smells nice, and she doesn't care a bit about putting on a cool act.=Она хорошо пахнет, и ей не волнует, что наносит крутой поступок.
+Come, come. Shall I show thee the limits of my tails' abilities?=Приходите, приходите.\nДолжен ли я показывать тебе пределы способностей моих хвостов?
+Perhaps, my darling, if thou wouldst crave something beyond... Something more amazing than this...=Возможно, моя дорогая, если бы ты хотел чего -то за пределами ... что -то более удивительное, чем это ...
+More... amazing...?=Больше ... Удивительно ...?
+Without thinking, I swallow the saliva that had been accumulating in my mouth.=Не думая, я глотаю слюну, которая накапливалась во рту.
+What is she going to do to me?=Что она будет со мной делать?
+As Saki's tails continue to soothe me, all sorts of ideas about what she might do flash through my mind.=Поскольку хвосты Саки продолжают успокаивать меня, всевозможные идеи о том, что она может сделать, вспыхивают в моем разуме.
+Kufufu... My sweetling, what a lecher thou art.=Куфуфу ... мой сладкий, какой ты лечеб.
+Saki stares back at me, smiling deviously.=Саки смотрит в ответ на меня, сознательно улыбаясь.
+By the by, my dear, something rigid hast been pressing against my bosom for some time now, has it not?=Благодаря, моя дорогая, что -то жесткое, что какое -то время прижималось к моей груди, не так ли?
+I-I can't help it!=Я-я не могу с этим поделать!
+From this angle, I have a perfect view of Saki's underwear.=С этого угла у меня есть идеальный вид на нижнее белье Саки.
+Her chest is disproportionately large compared to her slight frame, and now it's pressing up against my crotch.=Ее грудь непропорционально большая по сравнению с ее небольшой рамой, и теперь она прижимается к моей промежности.
+Kufufu. Thy member hast grown so large... Thou truly hast no integrity.=Куфуфу.\nТвой член Хаст вырос настолько большим ... ты искренне не честно.
+However... I am truly flattered that thou hast been so taken by my body.=Однако ... я действительно польщен, что ты был так взят моим телом.
+Wha?!=Что?!
+Saki gracefully opens her kimono, and before I know it, she's ready to sandwich my dick between her enormous breasts.=Саки изящно открывает свой кимоно, и прежде чем я знаю это, она готова сэкономить мой член между ее огромной грудью.
+She removes my underwear in a flash so she can see my penis.=Она снимает мое нижнее белье в одно мгновение, чтобы увидеть мой пенис.
+Saki...?=Саки ...?
+If thy member hast swelled so, then thou must be suffering, art thou not...?=Если твой член Хаст так раздулся, то ты должен страдать, не ...?
+Then why don't I do thee... another favor...? Nnh...=Тогда почему я не сделаю тебя ... еще одна услуга ...?\nNnh ...
+Saki starts to rock her body forward and back on top of me.=Саки начинает качать свое тело вперед и назад на меня.
+At the same time, she begins rubbing her ample breasts up and down the shaft of my penis.=В то же время она начинает потирать свои достаточные груди вверх и вниз по валу моего пениса.
+Mm... Haah... My sweetling, the heat from thy cock is hot indeed...=Мм ... ха -ха ... мой сладкий, жара от твоего члена действительно горячая ...
+With thy hard-on trapped betwixt my bosom, are thy humours not stimulated...?=С твоим твердым ловушкой между моей грудью, твои юморы не стимулированы ...?
+Ghk... Wah, oh...=Ghk ... вау, о ...
+Saki's tits feel so good that I can't control myself as I squirm beneath her.=Сиськи Саки чувствуют себя настолько хорошими, что я не могу контролировать себя, когда я извиваюсь под ней.
+She's got her soft tits locked around my dick as she gently rubs them against me.=У нее есть ее мягкие сиськи, запертые вокруг моего члена, когда она осторожно потирает их.
+And that's all it takes to put me on the verge of cumming.=И это все, что нужно, чтобы поставить меня на границу кончания.
+The thick scent of a male... Kufufu, my darling, what a divine specimen of maleness thou art.=Толстый аромат мужчины ... Куфуфу, моя дорогая, какой божественный образец мужественности ты.
+How is this? Are my breasts not just as divine?=Как это?\nМоя грудь не такая божественная?
+Yeah, they're the best, Saki.=Да, они лучшие, Саки.
+Hmm, thy member dost swells near to bursting...=Хм, твой член Дост распутывается рядом с разрывом ...
+A clear fluid hast been seeping from its tip as well...=Чистая жидкость также просачивалась от кончика ...
+I can feel Saki quicken her pace as she spurs me on more and more violently.=Я чувствую, как Саки ускоряет свой темп, когда она станет все более и более сильным.
+As she does, her tails continue to happily whap my face.=Как она это делает, ее хвосты продолжают счастливо, чтобы я по -своему.
+Mm... Ahn, nnh... Mm, haah, haah...=Мм ... Ан, нн ... мм, хаа, ха -ха ...
+Thou may... release thy seed at any time...=Ты можешь ... освободить семя в любое время ...
+Yeah, just a little more... and I'll cum...=Да, просто немного больше ... и я кончу ...
+Then... Mmf, cum wherever it pleases thee... Hnn, ahn.=Тогда ... MMF, кончи, где бы это ни было ... Х.Нн, Ан.
+I shall catch every drop... Ahn, ngh, haah, haah...=Я поймаю каждую каплю ... Ан, Нг, Хаах, Хаах ...
+Gaaah... It's coming out, Saki...!!=Гааах ... это выходит, Саки ... !!
+Hyah?! Mm... It flies with such great force...=Хай?!\nММ ... он летит с такой великой силой ...
+It didn't take long for me to reach my limit as she worked my cock and watched my reaction.=Мне не потребовалось много времени, чтобы достичь моего предела, когда она работала с моим членом и наблюдала за моей реакцией.
+My ejaculation sends spurts of hot cum splattering onto Saki's boobs and face where it clings.=Моя эякуляция посылает всплески горячей спермы, разбрызгивающейся на сиськи и лицо Саки, где она цепляется.
+Mmmmmm... Haah, such a manly smell... Hng, haah, haah...=Мммммм ... ха -ха, такой мужественный запах ... hng, хаа, ха -ха ...
+My dear, hadst thou truly so much stored up?=Моя дорогая, ты действительно так много хранился?
+Haah, haah... Your tits were too good for me...=Ха -ха, ха -ха ... твои сиськи были слишком хороши для меня ...
+Kufufu, to receive such praise, I am quite happy indeed.=Куфуфу, чтобы получить такую ​​похвалу, я действительно счастлив.
+The huge load of cum took Saki by surprise, but a charming, delighted smile quickly replaces her astonishment.=Огромный груз спермы застал саки врасплох, но очаровательная, восхитительная улыбка быстро заменяет ее удивление.
+She nudges my freshly milked penis as she gives me a sidelong glance.=Она подталкивает мой свежевываемый пенис, когда она бросает на меня в сторону.
+But... My beloved, thy member is still so full of vigor.=Но ... мой любимый, твой член все еще так полон энергии.
+'Tis still so hard and big.=«Это все еще так тяжело и большое.
+Well...=Хорошо...
+Kufufu. If thou art yet unsatisfied, then I shall have thee... cum inside me...=Куфуфу.\nЕсли ты пока неудовлетворен, тогда я буду ... кончить внутрь меня ...
+Ngh, Saki!!=Ngh, саки !!
+Saki's teasing words set me tumbling over the edge.=Дразнящие слова Саки заставили меня падать через край.
+I lift myself up, and in a moment, I'm on top of her.=Я поднимаюсь, и через мгновение я на ней.
+Mm... Haah, aah... My dear... is going to penetrate deep inside me...=Мм ... ха -ха, ааа ... моя дорогая ... будет проникнуть глубоко во мне ...
+And I do just that, forcefully thrusting my penis inside her pussy.=И я делаю именно это, насильственно толкая свой пенис в ее киску.
+As soon as I'm in, I feel Saki's tails entwine themselves around me.=Как только я нахожусь, я чувствую, что хвосты Саки вращаются вокруг меня.
+Gah... Saki, you can't wrap your tails around me like that...!=Гах ... Саки, ты не можешь так обернуть свои хвосты так ...!
+No matter... what... thou sayest... Nnfh, hwah, ah, I cannot help... myself...=Неважно ... что ... ты говоришь ... ННФХ, Хвах, ах, я не могу помочь ... Я ...
+My darling... Fhah, ah, 'tis too deep... Ngh, ahn, ahn, ah, ah.=Моя дорогая ... Фхах, ах, это слишком глубоко ... ngh, ahn, ahn, ах, ах.
+Haah, haah... Saki...!=Ха -ха, ха -ха ... Саки ...!
+I push my body down closer to hers and my dick deeper inside her.=Я толкаю свое тело ближе к ней и мой член глубже внутри нее.
+The walls of her vagina tighten painfully around my cock, sending sparks of electric pleasure through my brain.=Стены ее влагалища мучительно затянули вокруг моего члена, посылая искры электрическим удовольствием через мой мозг.
+Saki, I won't last long if you do that...=Саки, я не буду длиться долго, если ты это сделаешь ...
+'Tis no matter... Nuh... If thou art the one to do it, then I mind not... how rough you are... Hyah...='Это независимо от ... Ну ... если ты это сделал, то я не возражаю не ... как ты грубо ... Хха ...
+So fuck me. I want thee to fuck my pussy hard... Nnh, ah, ah.=Так трахни меня.\nЯ хочу, чтобы ты сильно трахнул мою киску ... нн, ах, ах.
+In that case, here we go!=В таком случае, вот и мы!
+This feels so good, there's no way I can hold on.=Это так хорошо, что я не могу держать.
+I plunge my cock in and out, in and out as hard as I can, just like she asked.=Я погружаю свой член внутрь и наружу, как можно больше, так же, как она спросила.
+Nngh, ah, ah, fwah, ah, Darling... Ngh, phah, ah...!=Nngh, Ah, Ah, Fwah, Ah, Darling ... ngh, phah, ах ...!
+More... I need more...!=Больше ... мне нужно больше ...!
+Show me the meaning of pleasure... Ngh, ah, ah, I'm losing... my mind... Hyaah!=Покажите мне смысл удовольствия ... ngh, ах, я теряю ... мой разум ... Хиаа!
+Haah, haah, Saki...=Хаах, Хаах, Саки ...
+Every time I thrust roughly into her, Saki lets out a sweet moan.=Каждый раз, когда я грубо вставил в нее, Саки выпускает сладкий стон.
+She's desperately trying to hold on, but the expression on her face tells me she won't last much longer.=Она отчаянно пытается удержаться, но выражение ее лица говорит мне, что она не продлится намного дольше.
+I'm still... going hard... Saki!=Я все еще ... иду тяжело ... Саки!
+W-Wait... 'Tis what I wished for, ngah, but beloved, thou art too rough... Fhah, ah!=W-wait ... это то, что я хотел, Нга, но любимый, ты слишком грубый ... Фхах, ах!
+I-I am near to climaxing... I, hnngh, I cannot endure...!=Я-я близок к кульминации ... Я, Hnngh, я не могу терпеть ...!
+It's okay, Saki... Cum all you want!=Все в порядке, Саки ... кончи все, что хочешь!
+N-No, not alone... Sweetling, we must... together...=Н-нет, не одинокий ... сладкий, мы должны ... вместе ...
+I want thy seed inside of me, beloved. I want to have thy children, darling!=Я хочу твоего семян внутри меня, любимый.\nЯ хочу, чтобы твои дети, дорогая!
+The pleasure is too much for me, and I'm at my breaking point.=Удовольствие слишком много для меня, и я нахожусь в своем перерыве.
+Warmth floods through my body as my orgasm begins, and I shoot my load into Saki.=Тепло наводит через мое тело, когда начинается мой оргазм, и я стреляю в саки.
+I'm cumming, Saki!=Я кончаю, Саки!
+Ah, ah, ah, cummiiiiiing...!!=Ах, ах, ах, cummiiiiiing ... !!
+Haah, haah, sweetling, thy seed... so much... Ngh, 'tis overflowing...=Хаах, хай, сладкий, твое семя ... так много ... ngh, это переполнено ...
+Ngah... hah, ah, splendid... My beloved... Mm, fhah, ah...=Нгах ... ха, ах, великолепный ... мой любимый ... мм, фхах, ах ...
+Ghk... Saki, don't squeeze so tight. I might... Wah!=GHK ... Саки, не сжимай так напряженно.\nЯ мог бы ... вау!
+There, connected to each other, I spurt another load of seed into her.=Там, связанные друг с другом, я вспыхиваю в нее еще одну груз семян.
+I give myself up to that amazing ecstasy, taking Saki in with all of my senses.=Я отдаю себя от этого удивительного экстаза, взяв Саки со всеми своими чувствами.
+Haah, haah... That was terrific, Saki.=Хаах, ха -ха ... это было потрясающе, Саки.
+Haah, haah... Kufufu, glad am I to hear that, my dear...=Хаах, ха -ха ... Куфуфу, рад, что я слышу это, моя дорогая ...
+Willst thou not... summon me again sometime...?=Ты не ... призови меня снова когда -нибудь ...?
+I should like to taste thy seed again, beloved...=Я хотел бы снова попробовать твои семя, любимый ...
+Of course... I promise, Saki.=Конечно ... я обещаю, Саки.
+Her tails coil around me again.=Ее хвосты снова катутся вокруг меня.
+A promise is a promise.=Обещание - это обещание.
+
+
+
+
+
 
 
 
